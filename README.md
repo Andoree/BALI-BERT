@@ -24,3 +24,23 @@ conda activate bali
 # Install dependencies
 pip install -r requirements.txt
 
+## Available HuggingFace Checkpoiints
+
+| Model | Description |
+|-------|-------------|
+| [`andorei/BALI-BERT-BioLinkBERT-large-lingraph`](https://huggingface.co/andorei/BALI-BERT-BioLinkBERT-large-lingraph) | BioLinkBERT-large model pre-trained with BALI using linear graph encoder |
+| [`andorei/BALI-BERT-BioLinkBERT-base-GNN`](https://huggingface.co/andorei/BALI-BERT-BioLinkBERT-base-GNN) | BioLinkBERT-base model pre-trained with BALI using GNN-based alignment |
+| [`andorei/BALI-BERT-PubMedBERT-GNN`](https://huggingface.co/andorei/BALI-BERT-PubMedBERT-GNN) | PubMedBERT model pre-trained with BALI using GNN-based alignment |
+
+## 📚 Citation
+
+If you use our model in your research, please cite our SIGIR 2025 paper:
+
+```bibtex
+@inproceedings{Sakhovskiy2025BALI,
+  author = {Sakhovskiy, Andrey and Tutubalina, Elena},
+  title = {BALI: Enhancing Biomedical Language Representations through Knowledge Graph and Language Model Alignment},
+  booktitle = {Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '25)},
+  year = {2025}
+}
+```
