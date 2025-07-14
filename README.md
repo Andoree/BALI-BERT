@@ -23,7 +23,7 @@ conda activate bali
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ## Available HuggingFace Checkpoiints
 
 | Model | Description |
