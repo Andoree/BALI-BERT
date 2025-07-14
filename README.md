@@ -32,6 +32,16 @@ pip install -r requirements.txt
 | [`andorei/BALI-BERT-BioLinkBERT-base-GNN`](https://huggingface.co/andorei/BALI-BERT-BioLinkBERT-base-GNN) | BioLinkBERT-base model pre-trained with BALI using GNN-based alignment |
 | [`andorei/BALI-BERT-PubMedBERT-GNN`](https://huggingface.co/andorei/BALI-BERT-PubMedBERT-GNN) | PubMedBERT model pre-trained with BALI using GNN-based alignment |
 
+## Evaluation QA data:
+
+* [PubmedQA](https://raw.githubusercontent.com/pubmedqa/pubmedqa/refs/heads/master/data/ori_pqal.json)
+
+* [MedQA](https://drive.google.com/file/d/1ImYUSLk9JbgHXOemfvyiDiirluZHPeQw/view)
+
+* [BioASQ 2023](https://participants-area.bioasq.org/accounts/login/?next=/Tasks/11b/trainingDataset/)
+
+
+
 ## 📚 Citation
 
 If you use our model in your research, please cite our SIGIR 2025 paper:
