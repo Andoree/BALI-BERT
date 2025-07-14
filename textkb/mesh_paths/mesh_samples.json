@@ -1,0 +1,161 @@
+{
+  "annotations": [
+    {
+      "id": [
+        "NCBITaxon:9606"
+      ],
+      "is_neural_normalized": false,
+      "mention": "woman",
+      "obj": "species",
+      "prob": 0.9073399901390076,
+      "span": {
+        "begin": 14,
+        "end": 19
+      }
+    },
+    {
+      "id": [
+        "mesh:D006261"
+      ],
+      "is_neural_normalized": false,
+      "mention": "headaches",
+      "obj": "disease",
+      "prob": 0.9985867738723755,
+      "span": {
+        "begin": 85,
+        "end": 94
+      }
+    },
+    {
+      "id": [
+        "mesh:D009325"
+      ],
+      "is_neural_normalized": false,
+      "mention": "nausea",
+      "obj": "disease",
+      "prob": 0.9976586103439331,
+      "span": {
+        "begin": 96,
+        "end": 102
+      }
+    },
+    {
+      "id": [
+        "mesh:D014839"
+      ],
+      "is_neural_normalized": false,
+      "mention": "vomiting",
+      "obj": "disease",
+      "prob": 0.9819597005844116,
+      "span": {
+        "begin": 108,
+        "end": 116
+      }
+    },
+    {
+      "id": [
+        "mesh:D004244"
+      ],
+      "is_neural_normalized": false,
+      "mention": "dizziness",
+      "obj": "disease",
+      "prob": 0.9999027252197266,
+      "span": {
+        "begin": 163,
+        "end": 172
+      }
+    },
+    {
+      "id": [
+        "mim:115000",
+        "mesh:D001145"
+      ],
+      "is_neural_normalized": true,
+      "mention": "palpitations",
+      "obj": "disease",
+      "prob": 0.9991724491119385,
+      "span": {
+        "begin": 177,
+        "end": 189
+      }
+    },
+    {
+      "id": [
+        "NCBITaxon:9606"
+      ],
+      "is_neural_normalized": false,
+      "mention": "patient",
+      "obj": "species",
+      "prob": 0.9903055429458618,
+      "span": {
+        "begin": 298,
+        "end": 305
+      }
+    },
+    {
+      "id": [
+        "mesh:D014570"
+      ],
+      "is_neural_normalized": true,
+      "mention": "genitourinary infection",
+      "obj": "disease",
+      "prob": 0.9990995526313782,
+      "span": {
+        "begin": 327,
+        "end": 350
+      }
+    },
+    {
+      "id": [
+        "NCBITaxon:485"
+      ],
+      "is_neural_normalized": false,
+      "mention": "Neisseria gonorrhoeae",
+      "obj": "species",
+      "prob": 0.9495043754577637,
+      "span": {
+        "begin": 457,
+        "end": 478
+      }
+    },
+    {
+      "id": [
+        "NCBITaxon:9606"
+      ],
+      "is_neural_normalized": false,
+      "mention": "woman",
+      "obj": "species",
+      "prob": 0.9180115461349487,
+      "span": {
+        "begin": 621,
+        "end": 626
+      }
+    },
+    {
+      "id": [
+        "mesh:D006261"
+      ],
+      "is_neural_normalized": false,
+      "mention": "headaches",
+      "obj": "disease",
+      "prob": 0.9986831545829773,
+      "span": {
+        "begin": 692,
+        "end": 701
+      }
+    },
+    {
+      "id": [
+        "mesh:D009325"
+      ],
+      "is_neural_normalized": false,
+      "mention": "nausea",
+      "obj": "disease",
+      "prob": 0.9974013566970825,
+      "span": {
+        "begin": 703,
+        "end": 709
+      }
+    }
+  ]
+}

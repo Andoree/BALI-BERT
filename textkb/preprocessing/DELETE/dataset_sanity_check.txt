@@ -1,0 +1,2688 @@
+Sentences head:
+	 tacrolimus and breastfeeding .
+	 with the improvement of body images , patients start to worry about mobility instead of cosmesis .
+	 spheroidin ( sph ) is the most highly expressed gene of the entomopoxvirus isolated from amsacta moorei ( amepv ) .
+Edges head:
+	tacrolimus --  anhydrous tacrolimus
+	patients --  human - origin
+	entom --  infect poxviridae
+	##opo --  infect poxviridae
+	##x --  infect poxviridae
+	##virus --  infect poxviridae
+	ya --  peophagus grunniens
+	##k --  peophagus grunniens
+	ya --  peophagus grunniens
+	##k --  peophagus grunniens
+Triples head:
+	 tacrolimus 1 mg in 1 g topical ointment [ protopic ] (C0939111) -->  anhydrous tacrolimus (C0771204)
+	 gtf2e1 (C1705407) -->  human - origin (C0086418)
+	 infection due to yatapoxvirus ( disorder ) (C2349857) -->  infect poxviridae (C0032870)
+	 bos ( organism ) (C1265540) -->  peophagus grunniens (C0325253)
+	 clarithromycin (C0055856) -->  a - 56268 (C0701282)
+Sentences tail:
+	 impairment of cell - mediated immunity in mutation diabetic mice ( db / db ) .
+	 in this report we show that af - 2 can also induce gene conversion in diploid yeast in a manner dependent on both duration and concentration of treatment .
+	 between 1989 and 1994 , there were 58 patients so treated for postpalatoplasty velopharyngeal dysfunction by two surgeons using the same operative technique .
+Edges tail:
+	diabetic --  diabetes mellitus
+	mice --  mice
+	yeast --  brewers yeast
+	patients --  human - origin
+	vel --  vpi
+	##opharyngeal --  vpi
+	dysfunction --  vpi
+	bacillus --  bacillus subtilis
+	subtilis --  bacillus subtilis
+	escherichia --  escherichia coli
+Triples tail:
+	 mice (C1331371) -->  mice < mus > (C0026809)
+	 diabetes mellitus (C0011849) -->  diabetes mellitus , adult with gangrene ( disorder ) (C0342253)
+	 brewers yeast (C0036025) -->  virol (C0205466)
+	 human - origin (C0086418) -->  cgb1 (C1705081)
+	 vpi (C0042454) -->  leukoedema of mouth ( diagnosis ) (C0023523)
+Sentences head:
+	 the aim of this study was to test whether the increased il - 4 / ifn - gamma production ratio by th cells in ad can be explained by an increased pge2 / il - 12 production ratio by the apc .
+	 conclusions oxidative processes do not appear to have an appreciable role in inducing damage in the equine large colon during reperfusion after 2 hours of ischemia .
+	 in contrast to rhinovirus and coronavirus , which do not cause discernible epithelial damage , influenza virus and adenovirus do damage the nasal epithelium .
+Edges head:
+	ad --  alzheimer disease , protection against
+	ad --  early onset alzheimer dis
+	equine --  equus przewalskii f . caballus
+	rhin --  disease due to respirovirus ( disorder )
+	##ovirus --  disease due to respirovirus ( disorder )
+	coron --  covid - 19 pandemics
+	##avirus --  covid - 19 pandemics
+	influenza --  influenza
+	virus --  influenza
+	adenovirus --  disease due to adenovirus , nos
+Triples head:
+	 cognitive disorder due to disorder (C4041080) -->  early onset alzheimer dis (C0750901)
+	 jielin horse breed (C1296970) -->  equus przewalskii f . caballus (C0019944)
+	 clinical trial reporting program terminology (C3899741) -->  disease due to adenovirus , nos (C0001486)
+	 rehabilitation (C0034992) -->  disease due to respirovirus ( disorder ) (C3714630)
+	 disease caused by wuhan coronavirus (C5203670) -->  covid - 19 pandemics (C5392141)
+Sentences tail:
+	 paraffin sections were studied with hematoxylin and eosin ( h & e ) stain and also with special stains in selected slides .
+	 dopaminergic activity and the discriminative stimulus effects of mu opioids in pigeons : importance of training dose and attenuation by the d3 agonist ( + / - ) - 7 - oh - dpat .
+	 hydrazine and mercury ( hg ) poisoning represented a serious hazard to human health .
+Edges tail:
+	hematoxylin --  hematoxylin
+	eosin --  eosine yellowish - ( ys ) , dipotassium salt
+	( --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	+ --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	/ --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	- --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	) --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	- --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	7 --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+	- --  7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer
+Triples tail:
+	 eosine yellowish - ( ys ) , dipotassium salt (C0887678) -->  eosine yellowish (C0014448)
+	 hematoxylin (C0018964) -->  chromones (C0008594)
+	 7 - hydroxy - 2 - n , n - dipropylaminotetralin , ( s ) - isomer (C0970362) -->  n , n - di - n - propyl - 7 - hydroxy - 2 - aminotetralin (C0049894)
+	 mercury ( metal ) (C0025424) -->  copaifera officinalis resin 3 [ hp _ x ] in 1 ml / solidago virgaurea flowering top 3 [ hp _ (C3892684)
+	 human - origin (C0086418) -->  trinucleotide repeat - containing gene 20 protein (C2699340)
+Sentences head:
+	 brain monoamines in seizure mechanism ( review ) .
+	 benefits for persons with multiple sclerosis .
+	 the evaluations of the cosmetic appearance of the treated sites , judged subjectively by clinicians and patients , were mostly good to excellent and generally in close agreement .
+Edges head:
+	seizure --  seizure , generalized absence
+	persons --  human - origin
+	multiple --  multiple sclerosis , acute fulminating
+	multiple --  multiple sclerosis , susceptibility to , 1
+	sclerosis --  multiple sclerosis , acute fulminating
+	sclerosis --  multiple sclerosis , susceptibility to , 1
+	patients --  human - origin
+	restenosis --  vascular graft occlusion
+	acr --  acromegalia
+	##omegaly --  acromegalia
+Triples head:
+	 petit mal , unspecified , without grand mal seizures (C0014553) -->  seizure , generalized absence (C4505436)
+	 slp - 76 (C1705639) -->  human - origin (C0086418)
+	 mir373 pre - mirna (C2826520) -->  human - origin (C0086418)
+	 venous perforation (C3888540) -->  vascular graft occlusion (C0018128)
+	 pituitary gigantism (C0017547) -->  acromegalia (C0001206)
+Sentences tail:
+	 the repurposing of fda - approved bruton ' s tyrosine kinase ( btk ) inhibitors as therapeutic agents for solid tumors may offer renewed hope for chemotherapy - resistant cancer patients .
+	 conclusion st helped physicians identify patients most susceptible to platinum derivative allergies and resume platinum - based therapy in many patients for whom no suitable therapeutic alternative was clinically acceptable .
+	 because lmo2 null mutant mice die at embryonic day 9 - 10 , it prevents an assessment of a role in other stages of hematopoiesis .
+Edges tail:
+	tyrosine --  ( s ) - alpha - amino - 4 - hydroxybenzenepropanoic acid
+	solid --  tumour , benign
+	tumors --  tumour , benign
+	cancer --  tumour , benign
+	patients --  human - origin
+	patients --  human - origin
+	platinum --  allergy drugs
+	platinum --  platinum black
+	derivative --  allergy drugs
+	allergies --  allergy drugs
+Triples tail:
+	 tumour , benign (C0086692) -->  tumor of follicular infundibulum ( disorder ) (C0346006)
+	 human - origin (C0086418) -->  hrit1 (C2984595)
+	 ( s ) - alpha - amino - 4 - hydroxybenzenepropanoic acid (C0041485) -->  tyrosine ql ( bld ) (C0800862)
+	 human - origin (C0086418) -->  major histocompatibility complex , class ii , dr beta 5 (C1415580)
+	 platinum black (C0032207) -->  hafnium (C0018488)
+Sentences head:
+	 real - time measurements of neck flexion during urologic surgery shows that greater duration and higher degree of neck flexion were associated with increased neck pain .
+	 gastric carcinoma with pyloric stenosis .
+	 in this study , the ligand - receptor - g protein interactions of the dopamine d3 receptor expressed in chinese hamster ovary cells were investigated using guanosine 5 ' - [ gamma - thio ] triphosphate - [ 35s ] ( [ 35s ] gtpgammas ) and receptor binding experiments .
+Edges head:
+	neck --  posterior neck pain
+	pain --  posterior neck pain
+	gastric --  breast cancer , lobular
+	gastric --  hereditary diffuse gastric cancer
+	carcinoma --  breast cancer , lobular
+	carcinoma --  hereditary diffuse gastric cancer
+	pylori --  pyloric stenosis nos
+	##c --  pyloric stenosis nos
+	stenosis --  pyloric stenosis nos
+	dopamine --  intropin
+Triples head:
+	 neckaches (C0007859) -->  posterior neck pain (C0751725)
+	 neoplastic syndromes , hereditary (C0027672) -->  hereditary diffuse gastric cancer (C1708349)
+	 gastric outlet obstructions (C0162651) -->  pyloric stenosis nos (C0034194)
+	 gamma - thio - atp (C0050760) -->  adenosine 5 ' - o - thiotriphosphate (C0101539)
+	 product containing dopamine (C0013030) -->  intropin (C0721081)
+Sentences tail:
+	 skeletal muscle tissue oxygen tension ( tpo2 ) was measured in the left gastrocnemic muscle using a stepwise - driven polarographic needle probe , creating histograms from 200 single tpo2 measurements .
+	 all of the cases had palmar pits ; onset of lesions was after puberty in all the cases .
+	 methods and materials between 1991 and 1995 , 34 patients - - 16 males and 18 females , median age 50 ( range 18 - 80 ) years - - underwent hilp for locally advanced extremity sts .
+Edges tail:
+	oxygen --  dioxygen
+	palm --  ear dimple
+	##ar --  ear dimple
+	pits --  ear dimple
+	patients --  human - origin
+	sts --  infections with a predominantly sexual mode of transmission
+	zebrafish --  d . rerio
+	patients --  human - origin
+	estrogens --  oestrogen effect , nos
+	deoxy --  deoxypyridinoline , stereoisomer
+Triples tail:
+	 dioxygen (C0058347) -->  product containing oxygen ( medicinal product ) (C0030054)
+	 ear dimple (C0546969) -->  nichd terminology (C5239397)
+	 human - origin (C0086418) -->  solute carrier family 43 ( amino acid system l transporter ) , member 2 wt allele (C3891077)
+	 infections with a predominantly sexual mode of transmission (C0036916) -->  fever hemorrhagic (C0019104)
+	 d . rerio (C0043457) -->  embryologic (C0013943)
+Sentences head:
+	 three categories of cells are described : small ( s ) and large ( l ) ganglion cells in the main ganglion cell layer , and large ganglion cells ( ld ) with somata more or less displaced into the inner plexiform layer .
+	 patient or public contribution people with lived experience of hiv were involved in the prototype design phases as research team members .
+	 66 . 4 % of people with ad had a first - degree relative suffering from autoimmunity .
+Edges head:
+	ld --  lyme arthritis
+	patient --  human - origin
+	people --  human - origin
+	hiv --  lymphadenopathy associated virus
+	people --  human - origin
+	ad --  alzheimer disease , protection against
+	ad --  early onset alzheimer dis
+	autoimmunity --  autoimmune disease
+	qt --  6 - methoxy - 8 - ( 4 - toluenesulfonamide ) quinoline
+	##s --  6 - methoxy - 8 - ( 4 - toluenesulfonamide ) quinoline
+Triples head:
+	 arthritis of lower leg due to lyme disease (C4480424) -->  lyme arthritis (C0242381)
+	 fos genes (C0085303) -->  human - origin (C0086418)
+	 aids with pyrexia - retired - (C0276574) -->  lymphadenopathy associated virus (C0019682)
+	 alzheimer disease early onset type 3 (C1843013) -->  early onset alzheimer dis (C0750901)
+	 patched ( drosophila ) homolog gene (C1705339) -->  human - origin (C0086418)
+Sentences tail:
+	 conclusions we found that a greater number of coexisting aneurysms did not increase rupture risk of individual aneurysms , but the potential additive effect might increase sah risk in patients with multiple intracranial aneurysms .
+	 changes in serum haptoglobin level after allergen challenge test in asthmatic children .
+	 this simple , efficient , and cost - effective approach for biofilm removal generates important insights into fenton chemistry , a fundamental mechanism in nature , considering the ubiquity of copper , hydrogen peroxide , and nitrite in the environment , biological systems , and various industrial processes .
+Edges tail:
+	aneurysms --  cerebral berry aneurysm
+	aneurysms --  cerebral berry aneurysm
+	sah --  subarachnoid hemorrhages , intracranial
+	patients --  human - origin
+	intracranial --  cerebral aneurysm - non ruptured
+	aneurysms --  cerebral aneurysm - non ruptured
+	asthmatic --  asthma susceptibility ( diagnosis )
+	asthmatic --  asthma bronchial
+	children --  human - origin
+	copper --  product containing copper ( product )
+Triples tail:
+	 human - origin (C0086418) -->  rhoh12 (C1705950)
+	 cerebral aneurysm - non ruptured (C0917996) -->  subarachnoid haemorrhage ( disorder ) (C0038525)
+	 cerebral berry aneurysm (C2713497) -->  conditions associated with central nervous system hemorrhages and cerebrovascular accidents ( smq ) (C2609428)
+	 subarachnoid hemorrhages , intracranial (C0795688) -->  subarachnoid haemorrhage ( disorder ) (C0038525)
+	 human - origin (C0086418) -->  general transcription factor iiic , polypeptide 3 , 102kda (C1333726)
+Sentences head:
+	 results scjd showed selective atrophy in cortical and subcortical regions overlapping with all but one region of the default mode network ( dmn ) and the insulae , thalami , and right occipital lobe .
+	 the hallux valgus angle improved an average of 23 degrees + / - 6 . 9 degrees , and the intermetatarsal angle improved an average of 2 degrees + / - 3 degrees .
+	 results forty - one patients were identified with acute posterior atlantooccipital membrane complex injury .
+Edges head:
+	sc --  creutzfeldt - jakob diseases , familial
+	##jd --  creutzfeldt - jakob diseases , familial
+	sc --  creutzfeldt - jakob disease , heidenhain variant
+	##jd --  creutzfeldt - jakob disease , heidenhain variant
+	atrophy --  atrophying
+	hall --  hv - hallux valgus
+	##ux --  hv - hallux valgus
+	val --  hv - hallux valgus
+	##gus --  hv - hallux valgus
+	patients --  human - origin
+Triples head:
+	 disorder ; visual (C0042790) -->  creutzfeldt - jakob disease , heidenhain variant (C1969957)
+	 chem ind (C0007994) -->  atrophying (C0333641)
+	 hallux valgus of both feet was observed (C2071121) -->  hv - hallux valgus (C0018536)
+	 janus kinase 1 wt allele (C1708580) -->  human - origin (C0086418)
+	 trauma , head (C0018674) -->  traumas , temporal region (C0751184)
+Sentences tail:
+	 general postoperative complications occurred in 15 cases ( 33 . 3 % ) , whereby patients of the conventional cholecystectomy group were concerned more often [ 46 . 2 % ( n = 12 ) versus 15 . 8 % ( n = 3 ) , p = 0 . 03 ] .
+	 the pathological changes in the femoral heads suggested that the process leading to osteonecrosis in the cardiac transplant patient is the same as that following renal transplantation , both being due to immunosuppression probably related to steroid dosage .
+	 effects of thorium on bacterial , microalgal and micromeiofaunal community structures in a periphytic biofilm .
+Edges tail:
+	patients --  human - origin
+	oste --  asept necrosis bone nos
+	##onec --  asept necrosis bone nos
+	##rosis --  asept necrosis bone nos
+	cardiac --  disease cardiac
+	patient --  human - origin
+	immunosuppression --  isscw
+	steroid --  steroid
+	thor --  thorium
+	##ium --  thorium
+Triples tail:
+	 human - origin (C0086418) -->  sca - 2 (C1705387)
+	 disease cardiac (C0018799) -->  abscess of cardiac septum ( disorder ) (C1320838)
+	 asept necrosis bone nos (C0520474) -->  secondary osteonecrosis of radius ( diagnosis ) (C3510211)
+	 human - origin (C0086418) -->  cpla2 - gamma (C1709405)
+	 steroid (C0038317) -->  holadysenterine (C4079281)
+Sentences head:
+	 stroke is one feared long - term complication , and an increased stroke rate could affect guidelines for treating both the aortic stenosis and choosing antithrombotic therapy after tavr .
+	 the increase in ach release by mkc - 242 was also observed in the hippocampus .
+	 clinical trials in diabetic retinopathy .
+Edges head:
+	aortic --  stenose aortic
+	stenosis --  stenose aortic
+	ach --  acetilcolina cusi
+	mk --  osemozotan
+	##c --  osemozotan
+	- --  osemozotan
+	242 --  osemozotan
+	diabetic --  diabetic retinopathy ( disorder )
+	retinopathy --  diabetic retinopathy ( disorder )
+	superoxide --  superoxides
+Triples head:
+	 mixed aortic valve disease ( disorder ) (C0852943) -->  stenose aortic (C0003507)
+	 acetylcholine preparation ( product ) (C0001041) -->  acetilcolina cusi (C1448335)
+	 dioxole (C0012505) -->  osemozotan (C2979987)
+	 background retinopathy and retinal vascular changes (C0494531) -->  diabetic retinopathy ( disorder ) (C0011884)
+	 metabolic burst (C0085416) -->  superoxides (C0038836)
+Sentences tail:
+	 to investigate further the cause of the pancreatic enlargment induced by orally ingested soybean trypsin inhibitor ( sti ) , antibodies raised against sti and purified by affinity chromatography were used to localise dietary sti in the rat gut by fluorescent immunocytochemical methods .
+	 conclusions lefamulin may provide a valuable intravenous / oral monotherapy alternative to fluoroquinolones or macrolides for empiric treatment of patients with cabp , including cases of patients at risk for poor outcomes due to age or various comorbidities .
+	 thus , it may be concluded that the co - application of biochar with urea can reduce n losses through moderation of n mineralization and make it available to plants for longer periods .
+Edges tail:
+	pancreatic --  disorder of pancreas
+	enlarg --  disorder of pancreas
+	##ment --  disorder of pancreas
+	soybean --  glycine max
+	rat --  rats
+	lef --  xenleta
+	##am --  xenleta
+	##ulin --  xenleta
+	fluoroquin --  fluoroquinolone ( substance )
+	##olones --  fluoroquinolone ( substance )
+Triples tail:
+	 glycine max (C1262902) -->  alfalfa (C0002022)
+	 rats (C0034693) -->  munich wistar rat ( organism ) (C0324539)
+	 disorder of pancreas (C0030286) -->  annulare ; pancreas (C0149955)
+	 fluoroquinolone ( substance ) (C0949665) -->  moxifloxacin ( substance ) (C0536495)
+	 human - origin (C0086418) -->  bhlha26 (C3539567)
+Sentences head:
+	 [ urinary and serum o - antibodies in patients with chronic pyelonephritis ( author ' s transl ) ] .
+	 species prevalence of malaria in northern and southern sudan , and control by mass chemoprophylaxis .
+	 machine learning in discovery of new antivirals and optimization of viral infections therapy .
+Edges head:
+	patients --  human - origin
+	chronic --  necrotizing pyelonephritis
+	py --  necrotizing pyelonephritis
+	##el --  necrotizing pyelonephritis
+	##onephritis --  necrotizing pyelonephritis
+	malaria --  infections , plasmodium
+	malaria --  malaria , mild , susceptibility to
+	viral --  viral : [ infection nos ] or [ illness ]
+	infections --  viral : [ infection nos ] or [ illness ]
+	microvascular --  blood vessel disease
+Triples head:
+	 nrg3 gene (C1334903) -->  human - origin (C0086418)
+	 renal papillary necrosis (C0022667) -->  necrotizing pyelonephritis (C1704315)
+	 vasculitides (C0042384) -->  infections , plasmodium (C0024530)
+	 infection , coccidioides immitis (C0009186) -->  viral : [ infection nos ] or [ illness ] (C0042769)
+	 acrocyanosis neonatal (C0456013) -->  blood vessel disease (C0042373)
+Sentences tail:
+	 research design and methods nine obese patients with type 2 diabetes were treated with a monounsaturated fatty acid ( mufa ) - enriched weight - reducing formula diet and compared with eight obese patients with type 2 diabetes treated with a low - fat , high - cho weight - reducing formula diet .
+	 the biocomputational analysis of the pharmacokinetic profile of both drugs revealed a low permeability of lumefantrine and a specific inactivation by cyp3a2 which might partly contribute to the short half - time of this drug .
+	 photodynamic therapy of balloon - injured arteries resulted in complete local depletion of medial smooth muscle cells ( smc ) , which was associated with a lack of ih until 2 weeks .
+Edges tail:
+	obese --  obesity [ ambiguous ]
+	obese --  thinness , nos
+	patients --  human - origin
+	type --  diabetes mellitus , type 2 , protection against
+	type --  non - insulin dependent diabetes mellitus
+	2 --  diabetes mellitus , type 2 , protection against
+	2 --  non - insulin dependent diabetes mellitus
+	diabetes --  diabetes mellitus , type 2 , protection against
+	diabetes --  non - insulin dependent diabetes mellitus
+	mono --  acid , monounsaturated fatty
+Triples tail:
+	 obesity [ ambiguous ] (C0028754) -->  product containing carbohydrate (C0007004)
+	 thinness , nos (C0039870) -->  body weights , fetal (C0751992)
+	 human - origin (C0086418) -->  interferon regulatory factor 3 wt allele (C1708451)
+	 acid , monounsaturated fatty (C0015687) -->  bd - 1 biostimulation agent (C3502053)
+	 non - insulin dependent diabetes mellitus (C0011860) -->  dka (C0011880)
+Sentences head:
+	 abundance was low ( < 13 indiv . m - 2 ) compared with other banana plantations worldwide , that frequently surpassed 100 indiv . m - 2 .
+	 development of vascular pole - associated glomerulosclerosis in the fawn - hooded rat .
+	 microvillous lymphomas ( mvls ) are rare , poorly defined , large transformed cell lymphomas characterized by a cohesive sinus growth pattern and ultrastructural cytoplasmic processes .
+Edges head:
+	ban --  musa acuminata aa group
+	##ana --  musa acuminata aa group
+	glomerul --  heymann nephritis
+	##osclerosis --  heymann nephritis
+	microv --  lymphoma , lymphocytic , intermediate
+	##illo --  lymphoma , lymphocytic , intermediate
+	##us --  lymphoma , lymphocytic , intermediate
+	lymphomas --  lymphoma , lymphocytic , intermediate
+	mv --  irritable heart
+	##ls --  irritable heart
+Triples head:
+	 banana plants (C0993601) -->  musa acuminata aa group (C1080913)
+	 mgn (C0017665) -->  heymann nephritis (C1704378)
+	 diffuse lymphocytic lymphoma poorly differ (C0334634) -->  lymphoma , lymphocytic , intermediate (C0751958)
+	 leukemic infiltration of skin ( chronic t - cell lymphocytic leukemia ) (C1304520) -->  lymphomas malignant (C0024299)
+	 orthostatic intolerance (C1535893) -->  irritable heart (C2930833)
+Sentences tail:
+	 there is strong evidence that oxidation of low density lipoprotein ( ldl ) may be an initiating event in atherogenesis and that oxidised ldl may also be involved in the glomerulosclerotic process .
+	 psychological and educational support to the families of children with asthma would improve their treatment adherence and efficacy .
+	 neomycin , paromomycin , ribostamycin and neamine bind in the major groove of the a - site rna in a unique binding pocket formed by non - canonical base pairs and a bulged nucleotide .
+Edges tail:
+	glomerul --  heymann nephritis
+	##oscler --  heymann nephritis
+	##otic --  heymann nephritis
+	process --  heymann nephritis
+	children --  human - origin
+	asthma --  asthma susceptibility ( diagnosis )
+	asthma --  asthma bronchial
+	neomycin --  neomycin palmitate ( substance )
+	paro --  paromomycin sulfate ( 2 : 5 )
+	##mo --  paromomycin sulfate ( 2 : 5 )
+Triples tail:
+	 heymann nephritis (C1704378) -->  mgn (C0017665)
+	 human - origin (C0086418) -->  h2afb1 (C4722655)
+	 asthma susceptibility ( diagnosis ) (C1869116) -->  platelet - activating factor acetylhydrolase deficiency (C3280315)
+	 asthma bronchial (C0004096) -->  crises , asthmatic (C0038218)
+	 neomycin palmitate ( substance ) (C0521893) -->  bactericidal chemical , nos (C0004635)
+Sentences head:
+	 the percentage of added [ 14c ] oleate - labelled remnant removed from the perfusate was similar for livers from rats fed on the fat - supplemented diets irrespective of the type of fat fed , whereas livers from rats fed on the low - fat diet removed more labelled fish oil and butter fat remnants than olive , maize or palm oil remnants .
+	 in addition , the ratio of apo ( a ) fragments to total immunodetectable apo ( a ) was increased in esrd .
+	 laparoscopic intracavitary drainage of subphrenic abscess .
+Edges head:
+	[ --  octadecane , 14c - labeled cpd
+	14c --  octadecane , 14c - labeled cpd
+	] --  octadecane , 14c - labeled cpd
+	rats --  rats
+	rats --  rats
+	maize --  corn
+	esrd --  end - stage kidney disease
+	subp --  abscess ; subphrenic
+	##hr --  abscess ; subphrenic
+	##enic --  abscess ; subphrenic
+Triples head:
+	 clinical data interchange standards consortium terminology (C1880104) -->  rats (C0034693)
+	 grass , barnyard (C1012097) -->  corn (C0010028)
+	 octadecane (C0069316) -->  octadecane , 14c - labeled cpd (C0890614)
+	 nephritis ; diffuse sclerosing (C1395431) -->  end - stage kidney disease (C0022661)
+	 ep (C0014508) -->  abscess ; subphrenic (C0038565)
+Sentences tail:
+	 results there were no baseline patient demographic differences between groups .
+	 host defense in cryptococcosis .
+	 these studies suggest that msw protein plays a regulatory role in the development of mesangial cell proliferation and matrix expansion during progression of glomerular injuries .
+Edges tail:
+	patient --  human - origin
+	crypt --  cryptococcus infection
+	##ococc --  cryptococcus infection
+	##osis --  cryptococcus infection
+	glomerular --  renal disease nos
+	injuries --  renal disease nos
+	patients --  human - origin
+	stage --  squamous cell carcinoma of esophagus
+	ii --  squamous cell carcinoma of esophagus
+	malignant --  malignant melanoma
+Triples tail:
+	 human - origin (C0086418) -->  tcf7l2 wt allele (C1705000)
+	 cryptococcus infection (C5235087) -->  systemic cryptococcosis ( diagnosis ) (C0343890)
+	 renal disease nos (C0022658) -->  bifid nose with or without anorectal and renal anomalies (C2750433)
+	 human - origin (C0086418) -->  bone morphogenetic protein 10 wt allele (C1706892)
+	 squamous cell carcinoma of esophagus (C0279626) -->  diagnosis aspect (C1704338)
+Sentences head:
+	 the patient ' s experience as a member of a minority was recognized , as were the psychodynamic meanings that race possessed in reference to identification , transference , resistance , and countertransference .
+	 dna - dna reassociation experiments show that the genome of aspergillus nidulans consists of approximately 97 to 98 percent unique and 2 to 3 percent reiterated sequences .
+	 the majority of cases of rds are mild and require short admissions to special care nurseries .
+Edges head:
+	patient --  human - origin
+	aspergillus --  emericella nidulans
+	nid --  emericella nidulans
+	##ulans --  emericella nidulans
+	rds --  rds - respiratory distress syndrome of newborn
+	patients --  human - origin
+	patients --  human - origin
+	coronary --  coronary disease
+	artery --  coronary disease
+	insufficiency --  coronary disease
+Triples head:
+	 tfap2a gene (C0919496) -->  human - origin (C0086418)
+	 aspergillus flavis (C0004036) -->  emericella nidulans (C0004038)
+	 perinatal bronchopulmonary dysplasia (C0006287) -->  rds - respiratory distress syndrome of newborn (C0035220)
+	 myelin p2 protein (C1418676) -->  human - origin (C0086418)
+	 supt3h wt allele (C1705833) -->  human - origin (C0086418)
+Sentences tail:
+	 development and validation of glycolysis - related prognostic score for prediction of prognosis and chemosensitivity of pancreatic ductal adenocarcinoma .
+	 hour - glass bladder was detected by x - ray investigation in a newborn female infant with delayed postpartum micturition .
+	 mean postoperative hospital stay was 1 . 2 + / - 0 . 5 days for patients undergoing lplnd alone .
+Edges tail:
+	pancreatic --  duct - cell carcinoma , pancreas
+	ductal --  duct - cell carcinoma , pancreas
+	adenocarcinoma --  duct - cell carcinoma , pancreas
+	infant --  human - origin
+	patients --  human - origin
+	ech --  echistatin beta
+	##istatin --  echistatin beta
+	asn --  asn 136
+	##172 --  asn 136
+	stage --  amelogenesis imperfecta - hypoplastic autosomal dominant - local
+Triples tail:
+	 duct - cell carcinoma , pancreas (C0887833) -->  veterinary aspects (C0042614)
+	 human - origin (C0086418) -->  hsa - mir - 133b (C1537784)
+	 human - origin (C0086418) -->  erp (C1705456)
+	 echistatin beta (C0285973) -->  echistatin (C0058926)
+	 asn 136 (C0606091) -->  cyclopeptide (C0030957)
+Sentences head:
+	 anloitnib combined with other therapy increased the efficacy without adding toxicity .
+	 bcg turns 100 this year and while it might not be the perfect vaccine , it has certainly contributed significantly towards eradication and prevention of spread of tuberculosis ( tb ) .
+	 panca was found in 24 of 36 il10 ( - / - ) mice .
+Edges head:
+	an --  su006668
+	##lo --  su006668
+	##it --  su006668
+	##ni --  su006668
+	##b --  su006668
+	tuberculosis --  tuberculosis ; general
+	tb --  tuberculosis ; general
+	mice --  mice
+	obesity --  obesity [ ambiguous ]
+	obesity --  thinness , nos
+Triples head:
+	 orantinib (C0960373) -->  su006668 (C0970963)
+	 tuberculosis of bladder , tubercle bacilli not found by bacteriological or histological examination , but tuberculosis confirmed by inoculation of animals (C0152799) -->  tuberculosis ; general (C0041296)
+	 mus musculus ( organism ) (C0025914) -->  mice (C1331371)
+	 patient _ weight (C0005910) -->  obesity [ ambiguous ] (C0028754)
+	 weight reductions (C1262477) -->  thinness , nos (C0039870)
+Sentences tail:
+	 background bovine tuberculosis is a chronic inflammatory disease that causes granuloma formation mainly in retropharyngeal , tracheobronchial , mediastinal lymph nodes and lungs of bovines .
+	 the pooled data suggest that omitting breakfast interferes with cognition and learning , an effect that is more pronounced in nutritionally at - risk children than in well - nourished children .
+	 estimation of the glomerular filtration rate in niddm patients from plasma creatinine concentration after cimetidine administration .
+Edges tail:
+	bovine --  infection due to mycobacterium bovis ( disorder )
+	bovine --  bos taurus taurus ( organism )
+	tuberculosis --  infection due to mycobacterium bovis ( disorder )
+	chronic --  chronically ill
+	inflammatory --  chronically ill
+	disease --  chronically ill
+	granuloma --  granuloma
+	bovine --  bos taurus taurus ( organism )
+	##s --  bos taurus taurus ( organism )
+	children --  human - origin
+Triples tail:
+	 chronically ill (C0008715) -->  patient appears chronically ill (C2051413)
+	 infection due to mycobacterium bovis ( disorder ) (C0041307) -->  tuberculoses , endocrine (C0041310)
+	 granuloma (C0018188) -->  terminal ileitis ( disorder ) (C0678201)
+	 bos taurus taurus ( organism ) (C1140701) -->  belgian white and red cattle breed ( organism ) (C1297472)
+	 human - origin (C0086418) -->  pctaire protein kinase 1 , human (C2002328)
+Sentences head:
+	 we present 20 patients in whom drug therapy was associated with interstitial histiocytic infiltrates with variable degeneration of collagen and elastic fibers mimicking early lesions of granuloma annulare ( ga ) .
+	 several authors were able to demonstrate a deficiency of cellular immunity in patients with sspe .
+	 in terms of delivering doses and dose distribution of vmat , error detectability of d4d was comparable to that of d4p . the transmission - type detector " d4d " is thus suitable for detecting delivery errors during irradiation .
+Edges head:
+	patients --  human - origin
+	granuloma --  granuloma annulare ( diagnosis )
+	annular --  granuloma annulare ( diagnosis )
+	##e --  granuloma annulare ( diagnosis )
+	ga --  gaucher disease type 1
+	deficiency --  decreased immune function
+	of --  decreased immune function
+	cellular --  decreased immune function
+	immunity --  decreased immune function
+	patients --  human - origin
+Triples head:
+	 mfh - 1 (C1414669) -->  human - origin (C0086418)
+	 inflammation of specific body organs (C1285331) -->  granuloma annulare ( diagnosis ) (C0085074)
+	 gba , leu371val (C1847962) -->  gaucher disease type 1 (C1961835)
+	 nabc1 (C0755807) -->  human - origin (C0086418)
+	 engraftment syndrome (C0919746) -->  subacute sclerosing ; leukencephalitis (C0038522)
+Sentences tail:
+	 instead , dental problems may compromise the patient ' s general health and hinder medical efforts to either maintain or replace vital kidney functions .
+	 in serratia marcescens , the mutation responsible for triazolealanine ( tra ) resistance was transferred from a tra - resistant mutant to a urocanase - less mutant by ps20 - mediated transduction .
+	 this new sensitive and specific hfs score seems a reliable instrument to monitor bont therapy and customize it to the needs of the individual hfs patient - in clinical studies and daily clinical practice .
+Edges tail:
+	dental --  tooth disorder
+	problems --  tooth disorder
+	patient --  human - origin
+	serr --  serratia marcescens organism
+	##atia --  serratia marcescens organism
+	marc --  serratia marcescens organism
+	##es --  serratia marcescens organism
+	##cens --  serratia marcescens organism
+	tri --  triazolealanine , ( s ) - isomer
+	##azole --  triazolealanine , ( s ) - isomer
+Triples tail:
+	 human - origin (C0086418) -->  ets1 proto - oncogene (C1705691)
+	 tooth disorder (C0040435) -->  abnormality of gum ridge (C0341007)
+	 triazolealanine , ( s ) - isomer (C0894486) -->  1 , 2 , 4 - triazole - 3 - alanine (C0077010)
+	 serratia marcescens organism (C0036766) -->  s [ preparations ] (C2267101)
+	 tratinterol (C4277360) -->  phenylamine (C0003038)
+Sentences head:
+	 case report two of our patients with history of ingestion of carbamazepine were tested positive on screening with the tricyclic antidepressant immunoassay .
+	 forty apoe - / - mice were randomly divided into model group , atorvastatin group , smyad low - dose ( smyad - ld ) group , smyad medium - dose ( smyad - md ) group , and smyad high - dose ( smyad - hd ) group .
+	 rd in prisoners is related to increased violence ( acted and supported ) and suicidal recidivism .
+Edges head:
+	patients --  human - origin
+	carbamazepine --  carbamazepine anhydrous
+	mice --  mice
+	atorvastatin --  liptonorm
+	rd --  pigment epithelial detachment
+	acute --  acute hypercapnic respiratory failure
+	respiratory --  acute hypercapnic respiratory failure
+	failure --  acute hypercapnic respiratory failure
+	cef --  cefadroxil anhydrous
+	##ad --  cefadroxil anhydrous
+Triples head:
+	 cd222 (C1334090) -->  human - origin (C0086418)
+	 product containing carbamazepine (C0006949) -->  carbamazepine anhydrous (C5200991)
+	 laboratory mouse (C0025929) -->  mice (C1331371)
+	 atorvastatin - chemical ( substance ) (C0286651) -->  liptonorm (C3887698)
+	 separation (C0036679) -->  pigment epithelial detachment (C0339546)
+Sentences tail:
+	 we analyzed the seroprevalence of lcmv in continental croatian regions .
+	 the increasing burden of ncds , as well as a move towards person - centred differentiated delivery of services for people living with hiv , is a factor in the recent adoption of integrated hiv and ncd service delivery plans .
+	 the patient reported after a year of injury with complaints of recurrent medial dislocations of the first metatarsophalangeal joint .
+Edges tail:
+	lcmv --  arenavirus infection
+	ncd --  central nervous system disease
+	##s --  central nervous system disease
+	people --  human - origin
+	hiv --  acquired immune deficiency syndrome ( disorder )
+	hiv --  acquired immune deficiency syndrome ( disorder )
+	ncd --  norrie disease
+	patient --  human - origin
+	medial --  inferior dislocations
+	dislocation --  inferior dislocations
+Triples tail:
+	 arenavirus infection (C0205671) -->  fever , argentinian hemorrhagic (C0019097)
+	 human - origin (C0086418) -->  microrna 21 wt allele (C2825806)
+	 acquired immune deficiency syndrome ( disorder ) (C0001175) -->  hiv - associated neurocognitive disorder (C4285693)
+	 central nervous system disease (C0007682) -->  congenital malformations nervous system arachnoid / ependymal cyst (C0431387)
+	 norrie disease (C0266526) -->  transitory deafness (C0151588)
+Sentences head:
+	 relaxation in response to sodium nitroprusside was accompanied by a significant ( p < 0 . 05 and p < 0 . 005 ) increase in cyclic 3 ' : 5 ' guanosine monophosphate level .
+	 it appears that many of the tender spots formed in intercostal muscles after herpes zoster are myofascial trigger points that respond to injection with referred pain , local twitch responses , and immediate pain relief .
+	 physical deformity of richard iii .
+Edges head:
+	sodium --  nitroprussiat fides
+	nitro --  nitroprussiat fides
+	##pr --  nitroprussiat fides
+	##uss --  nitroprussiat fides
+	##ide --  nitroprussiat fides
+	' --  guanylic acid
+	guanosine --  guanylic acid
+	monophosphate --  guanylic acid
+	herpes --  herpes ; zoster
+	zoster --  herpes ; zoster
+Triples head:
+	 urine (C0042037) -->  guanylic acid (C0018346)
+	 nitroprusside ( substance ) (C0028193) -->  nitroprussiat fides (C1564126)
+	 [ x ] staphylococcal infection , unspecified ( disorder ) (C0038160) -->  herpes ; zoster (C0019360)
+	 congenital malformation (C0000768) -->  fetal malformation (C5243499)
+	 neuromuscular disorders nec (C0852419) -->  autonomic disorders nervous system (C1145628)
+Sentences tail:
+	 objective to study the risk factors for the development of acute renal failure and death among patients with definite bacterial endocarditis .
+	 sequential treatment of trophozoite membranes with the nonionic detergents brij 35 and igepal ca - 630 released a soluble fraction that efficiently catalyzed the transfer of mannose from gdp - man into a mannolipid that was identified as dolichol phosphate mannose ( dol - p - man ) by several criteria .
+	 however , due to insufficient awareness , the diagnostic rate remains low and merely 5 - 6 % of colorectal cancer patients are diagnosed with hereditary colorectal cancer .
+Edges tail:
+	acute --  acute injury of kidney ( disorder )
+	renal --  acute injury of kidney ( disorder )
+	failure --  acute injury of kidney ( disorder )
+	patients --  human - origin
+	bacterial --  endocarditis ; bacterial
+	endocarditis --  endocarditis ; bacterial
+	ige --  igepal ca - 630
+	##pal --  igepal ca - 630
+	ca --  igepal ca - 630
+	- --  igepal ca - 630
+Triples tail:
+	 acute injury of kidney ( disorder ) (C2609414) -->  renal insufficiency , chronic (C0403447)
+	 human - origin (C0086418) -->  caspase 2 , apoptosis - related cysteine protease wt allele (C1705061)
+	 endocarditis ; bacterial (C0014121) -->  bacterial genital infection (C0729525)
+	 igepal ca - 630 (C0968701) -->  non - idet p - 40 (C0068941)
+	 mannose (C0024742) -->  4 - amino - 4 , 6 - dideoxy - 2 - o - methylmannose (C0255045)
+Sentences head:
+	 background : currently , more and more subfertility couples are opting for combined acupuncture to improve the success rate of in vitro fertilization and embryo transfer ( ivf - et ) .
+	 hypoglycemic effect of the water extract of piper sarmentosum in rats .
+	 the sedative effect is not sufficient in severe psychomotor agitation ; here it is necessary to combine it with a sedative neuroleptic or other sedating substance .
+Edges head:
+	subf --  sterility
+	##ert --  sterility
+	##ility --  sterility
+	piper --  piper sarmentosum
+	sar --  piper sarmentosum
+	##ment --  piper sarmentosum
+	##osum --  piper sarmentosum
+	rats --  rats
+	psychomotor --  restlessness
+	agitation --  restlessness
+Triples head:
+	 unable ( to ) get pregnant (C0021359) -->  sterility (C4074771)
+	 families muridae and / or gliridae ( organism ) (C1533777) -->  rats (C0034693)
+	 piper (C0330232) -->  piper sarmentosum (C1887620)
+	 restlessness (C0085631) -->  restlessness (C3887612)
+	 african swamp rat ( organism ) (C0324926) -->  rats (C0034693)
+Sentences tail:
+	 following overnight abstinence , participants experienced one directed ( 10 puffs , 30 sec ipi ) and 2 ad libitum puffing bouts .
+	 this case is unique in the delayed appearance of lymphadenopathy .
+	 the immunohistological expression of p53 and mdm2 oncoproteins was examined in paraffin embedded tissue from 106 patients with transitional cell carcinoma of the urinary bladder and was related to various clinicopathological features , the expression of proliferation associated markers ( proliferating cell nuclear antigen - pcna - and ki - 67 ) , c - erb b - 2 oncoprotein and epidermal growth factor receptor ( egfr ) , as well as to survival .
+Edges tail:
+	participants --  human - origin
+	lymphadenopathy --  complex , aids - related
+	patients --  human - origin
+	transitional --  carcinomas , transitional cell
+	cell --  carcinomas , transitional cell
+	carcinoma --  carcinomas , transitional cell
+	of --  carcinomas , transitional cell
+	the --  carcinomas , transitional cell
+	urinary --  carcinomas , transitional cell
+	bladder --  carcinomas , transitional cell
+Triples tail:
+	 human - origin (C0086418) -->  class i genes (C0017355)
+	 complex , aids - related (C0001857) -->  hiv infection centers for disease control group iv subgroup d (C0853923)
+	 human - origin (C0086418) -->  chak2 (C1425225)
+	 carcinomas , transitional cell (C0007138) -->  bronchogenic lung cancer (C0007121)
+	 nitrogen , nos (C0028158) -->  nitrogen ( u ) [ mass / time ] (C0364810)
+Sentences head:
+	 the score was predictive of future epilepsy .
+	 recent studies have focused on the potential to target specific osa causes with novel treatments to reduce osa severity and improve efficacy with existing non - cpap therapies which are often suboptimal ( e . g . , mandibular advancement splints ) .
+	 this would facilitate integration of mmtv and amplify the number of virus infected lymphocytes .
+Edges head:
+	epilepsy --  awakening epilepsy
+	osa --  upper airway resistance sleep apnea syndrome
+	osa --  upper airway resistance sleep apnea syndrome
+	mmtv --  bittner virus
+	echin --  echinococcus multilocularis
+	##ococcus --  echinococcus multilocularis
+	multil --  echinococcus multilocularis
+	##ocular --  echinococcus multilocularis
+	##is --  echinococcus multilocularis
+	hydroxide --  hydroxides
+Triples head:
+	 seizure disorders (C0014544) -->  awakening epilepsy (C0751111)
+	 upper airway resistance syndrome ( disorder ) (C1319384) -->  upper airway resistance sleep apnea syndrome (C0751761)
+	 mtv (C0596883) -->  bittner virus (C0024662)
+	 metabolic aspects (C0025520) -->  echinococcus multilocularis (C0322178)
+	 carbonate ( substance ) (C0007026) -->  hydroxides (C0020315)
+Sentences tail:
+	 the 3p deletion syndrome is an unusual condition .
+	 in men , a slight rise in the geometric mean lipoprotein ( a ) concentration occurred with age , whereas in women a dramatic increase was seen after age 40 .
+	 lead exposure and accumulation in healthy thais : assessed by lead levels , edta mobilization and heme synthesis - related parameters .
+Edges tail:
+	3p --  1p36 . 33 deletion
+	deletion --  1p36 . 33 deletion
+	syndrome --  1p36 . 33 deletion
+	men --  human - origin
+	women --  human - origin
+	heme --  protoheme ix
+	chronic --  end - stage kidney disease
+	kidney --  end - stage kidney disease
+	disease --  end - stage kidney disease
+	pulmonary --  lung disease
+Triples tail:
+	 1p36 . 33 deletion (C3711558) -->  distal monosomy 1p36 (C1842870)
+	 human - origin (C0086418) -->  histone h1 kinase , m - phase - specific (C0079805)
+	 protoheme ix (C0018966) -->  ferrate ( 8 - ) , ( 3 , 8 , 13 , 17 - tetrakis ( carboxymethyl ) - 7 , 8 , 12 , (C0074581)
+	 lung disease (C0024115) -->  unspecified respiratory abnormality (C1260922)
+	 obesity [ ambiguous ] (C0028754) -->  diabetic complications (C0342257)
+Sentences head:
+	 here we aimed to determine the role of the ubiquitous enzyme , protein kinase c , in the phosphorylating activity of cromolyn by examining the effects of phorbol esters ( activators of protein kinase c ) on protein phosphorylation in [ 32p ] orthophosphate loaded rat peritoneal mast cells .
+	 this study evaluated the impact of a telephone support programme with telemonitoring on changes in healthy eating and active exercise in adults with prediabetes using the stage of change framework .
+	 future directions in non - small - cell lung cancer : a continuing perspective .
+Edges head:
+	cro --  aarane
+	##mo --  aarane
+	##ly --  aarane
+	##n --  aarane
+	phorbol --  phorbol esters
+	esters --  phorbol esters
+	rat --  rats
+	pred --  prediabetes
+	##iab --  prediabetes
+	##etes --  prediabetes
+Triples head:
+	 cromolyn sodium (C0012694) -->  aarane (C0700887)
+	 buf (C0324533) -->  rats (C0034693)
+	 phorbol 13 - monoacetate (C0070752) -->  phorbol esters (C0031586)
+	 pharmacologic therapy (C0013217) -->  prediabetes (C0362046)
+	 cptac neoplasms codelist (C4763387) -->  non - small cell cancer of lung (C0007131)
+Sentences tail:
+	 our approach has been to examine epoxy - and spiro - orthocarbonate ( soc ) - based resins .
+	 results a total of 942 patients underwent rarp for prostate cancer in 3 centers .
+	 the accumulation of 20s rna depended on continued protein synthesis but was actinomycin d insensitive , despite a high guanine - plus - cytosine content .
+Edges tail:
+	spiro --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	- --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	ortho --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	##car --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	##bon --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	##ate --  delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate
+	patients --  human - origin
+	prostate --  prostate cancer
+	cancer --  prostate cancer
+	actinomycin --  cosmegen
+Triples tail:
+	 delta - ( spiro - 4 - hydroxy - 2 , 5 - cyclohexadienyl ) pyroglutamate (C0057332) -->  pyroglutamate (C0600319)
+	 human - origin (C0086418) -->  hath1 (C1412626)
+	 prostate cancer (C0376358) -->  biopsy of prostate showed malignant clear cell type ( procedure ) (C4030309)
+	 cosmegen (C0701095) -->  dactinomycin product (C0010934)
+	 asthma susceptibility ( diagnosis ) (C1869116) -->  platelet - activating factor acetylhydrolase deficiency (C3280315)
+Sentences head:
+	 we have previously reported that granulocyte - macrophage colony - stimulating factor ( gm - csf ) - and interleukin - 3 ( il - 3 ) - dependent fdc - p1 cells undergo leukemic transformation when injected into sublethally irradiated dba / 2 mice .
+	 our results revealed that evodiamine significantly decreased tnf - , il - 6 , and il - 1 in beas - 2b cells .
+	 48 . 2 % of the total cohort were found to have microadenomas .
+Edges head:
+	mice --  mice
+	ev --  evodiamine , ( s ) - isomer
+	##odia --  evodiamine , ( s ) - isomer
+	##mine --  evodiamine , ( s ) - isomer
+	micro --  trabecular adenoma
+	##aden --  trabecular adenoma
+	##omas --  trabecular adenoma
+	mice --  mice
+	cov --  covid - 19 pandemics
+	##id --  covid - 19 pandemics
+Triples head:
+	 laboratory mouse (C0025929) -->  mice (C1331371)
+	 isoevodiamine (C0082514) -->  evodiamine , ( s ) - isomer (C0957081)
+	 [ m ] adenomas and adenocarcinomas (C0334275) -->  trabecular adenoma (C0205651)
+	 mice < mus > (C0026809) -->  mice (C1331371)
+	 disease caused by wuhan coronavirus (C5203670) -->  covid - 19 pandemics (C5392141)
+Sentences tail:
+	 exposure to elevated levels of airborne particles increased the incidence of respiratory diseases .
+	 long - term clinical effects , bioavailability , and kinetics of minoxidil in relation to renal function .
+	 it may also attenuate hd - induced cardiac stunning .
+Edges tail:
+	respiratory --  respiratory disorders
+	diseases --  respiratory disorders
+	min --  u 10858
+	##oxid --  u 10858
+	##il --  u 10858
+	cardiac --  disease cardiac
+	hypere --  hypereosinophilic syndrome / chronic eosinophilic leukemia ( morphologic abnormality )
+	##osin --  hypereosinophilic syndrome / chronic eosinophilic leukemia ( morphologic abnormality )
+	##ophilic --  hypereosinophilic syndrome / chronic eosinophilic leukemia ( morphologic abnormality )
+	hypere --  syndromes , idiopathic hypereosinophilic
+Triples tail:
+	 respiratory disorders (C0035204) -->  complications of pregnancy , childbirth and the puerperium (C0178292)
+	 u 10858 (C0733369) -->  loniten (C0699464)
+	 disease cardiac (C0018799) -->  cardiac ; aneurysm (C0018789)
+	 nhl (C4721532) -->  non hodgkin lymphoma (C0024305)
+	 human - origin (C0086418) -->  amyloid beta ( a4 ) precursor protein - binding , family a , member 2 wt allele (C3538727)
+Sentences head:
+	 the purpose of the present study was to determine if iodized talc slurry produced a better pleurodesis in animals than did plain talc .
+	 next to hospitalization , drug treatment accounts for the highest expense for direct medical costs of pd .
+	 all subjects had known behet disease for > 10 years .
+Edges head:
+	tal --  sclerosing agents talc
+	##c --  sclerosing agents talc
+	tal --  sclerosing agents talc
+	##c --  sclerosing agents talc
+	pd --  parkinson disease , late onset ( diagnosis )
+	beh --  behcet syndrome
+	##et --  behcet syndrome
+	disease --  behcet syndrome
+	tumor --  tumour , benign
+	substance --  abuse drugs prescription
+Triples head:
+	 cimduo 300mg - 300mg tablet (C4689242) -->  sclerosing agents talc (C0039267)
+	 [ d ] dysphagia (C0011168) -->  parkinson disease , late onset ( diagnosis ) (C3160718)
+	 behcet syndrome , complete type (C0277502) -->  behcet syndrome (C0004943)
+	 benign neoplasm of right conjunctiva (C2869530) -->  tumour , benign (C0086692)
+	 non - medical use of prescription drugs (C0581388) -->  abuse drugs prescription (C4316881)
+Sentences tail:
+	 leishmania major pteridine reductase 1 belongs to the short chain dehydrogenase family : stereochemical and kinetic evidence .
+	 vitreous depth at age 4 was 14 . 51 mm for girls and 15 . 08 mm for boys ; with 0 . 156 mm ( girls ) or 0 . 140 mm ( boys ) increase per year until age 14 ( girls : 16 . 08 mm ; boys : 16 . 48 mm ) .
+	 these findings indicate that a rise in the dose of argulus infection improves a . hydrophila colonization in goldfish and contributes to suppression of the innate immune system and increased mortality .
+Edges tail:
+	leishmania --  leishmania tropica major
+	major --  leishmania tropica major
+	girls --  human - origin
+	boys --  human - origin
+	girls --  human - origin
+	boys --  human - origin
+	girls --  human - origin
+	boys --  human - origin
+	a --  aeromonas hydrophila
+	. --  aeromonas hydrophila
+Triples tail:
+	 leishmania tropica major (C0023276) -->  aspects of radiation effects (C0034526)
+	 human - origin (C0086418) -->  cd140a (C1705319)
+	 aeromonas hydrophila (C0085491) -->  intestinal infection due to aeromonas hydrophilia ( diagnosis ) (C2960005)
+	 mucosal inflammation (C0333355) -->  mucosal induration (C1868763)
+	 dispril (C0917836) -->  solprin (C0012733)
+Sentences head:
+	 bromocriptine - induced inhibition of plasma dopamine , noradrenaline and adrenaline responses to lh - rf .
+	 residual enzyme activities varying from 7 % - 22 % were detected in fibroblasts from patients with the adult form but not from patients with the infantile form of glycogenosis ii .
+	 methodology the effects of ntp and tegdma on mdpc - 23 cell proliferation were tested using wst - 1 assays after pretreatment with ntp for 1 min and exposure to tegdma .
+Edges head:
+	dopamine --  intropin
+	patients --  human - origin
+	patients --  human - origin
+	glycogen --  gierke
+	##osis --  gierke
+	teg --  triethylene glycoldimethacrylate
+	##dm --  triethylene glycoldimethacrylate
+	##a --  triethylene glycoldimethacrylate
+	teg --  triethylene glycoldimethacrylate
+	##dm --  triethylene glycoldimethacrylate
+Triples head:
+	 product containing dopamine (C0013030) -->  intropin (C0721081)
+	 ccnl1 gene (C1706032) -->  human - origin (C0086418)
+	 neuromyopathy (C0027868) -->  gierke (C0017919)
+	 acid polymers , methacrylic (C0032522) -->  triethylene glycoldimethacrylate (C0077101)
+	 benign nervous system neoplasm nos (C0497550) -->  tumour , benign (C0086692)
+Sentences tail:
+	 physical therapists viewed two - dimensional videos of participants performing the lateral step - down test and appraised the quality with a score ( 0 - 1 = ' good ' ; 2 - 3 = ' fair ' , and 4 - 5 = ' poor ' ) at baseline and 1 week .
+	 in multivariate analysis , patients with admission gdf - 15 3500 ng / ml and discharge gdf - 15 3000 ng / ml had a significantly higher 1 year death risk when compared with the remaining - hazard ratio = 2 . 59 ( 95 % confidence interval : 1 . 41 - 4 . 76 ) - and a 3 year 1 . 76 ( 95 % confidence interval : 1 . 08 - 2 . 87 ) higher death risk compared with those with both values below the cut - off .
+	 sibutramine reduces food intake in non - dieting women with obesity .
+Edges tail:
+	participants --  human - origin
+	patients --  human - origin
+	sib --  reductil
+	##utr --  reductil
+	##amine --  reductil
+	women --  human - origin
+	obesity --  obesity [ ambiguous ]
+	obesity --  thinness , nos
+	intra --  fetal mummification
+	- --  fetal mummification
+Triples tail:
+	 human - origin (C0086418) -->  il - 11 (C1699803)
+	 human - origin (C0086418) -->  glycogen synthase kinase 3 alpha wt allele (C1706400)
+	 human - origin (C0086418) -->  adpaef (C1706323)
+	 reductil (C1956165) -->  product containing sibutramine (C0074493)
+	 thinness , nos (C0039870) -->  overweight (C0497406)
+Sentences head:
+	 these observations suggest that proliferating bile ductules contribute to elevated plasma cea in alcoholic patients .
+	 escherichia coli was isolated in both patients .
+	 a review of the role of lower - leg strength measurements in ankle sprain and chronic ankle instability populations .
+Edges head:
+	alcoholic --  aerodigestive tract cancer , squamous cell , alcohol - related , protection against
+	alcoholic --  alcohol abuse , unspecified
+	patients --  human - origin
+	escherichia --  escherichia coli
+	coli --  escherichia coli
+	patients --  human - origin
+	ankle --  syndesmotic injuries
+	spr --  syndesmotic injuries
+	##ain --  syndesmotic injuries
+	chronic --  joint hypermobilities
+Triples head:
+	 rak (C1705658) -->  human - origin (C0086418)
+	 encephalopathy ; demyelinating callosal (C0238265) -->  alcohol abuse , unspecified (C0085762)
+	 abd - b (C1705269) -->  human - origin (C0086418)
+	 n men sg b + e coli k1 ag ser ql la (C1315869) -->  escherichia coli (C0014834)
+	 extremity , nos (C0015385) -->  joint hypermobilities (C0086437)
+Sentences tail:
+	 there were no differences in erythema rates between younger and older subjects with either transdermal system .
+	 [ pin ] and focal glandular atypia ) on the initial three slides was compared with complete examination for a control population of 100 cases diagnosed as benign prostatic tissue on the initial three slides .
+	 purpose we report the common characteristics of juvenile pilocytic astrocytomas revealed by proton mr spectroscopy .
+Edges tail:
+	erythema --  erythema
+	pin --  pinta nos
+	focal --  epithelial neoplasms
+	glandular --  epithelial neoplasms
+	atyp --  epithelial neoplasms
+	##ia --  epithelial neoplasms
+	pil --  grade i astrocytoma
+	##ocytic --  grade i astrocytoma
+	astrocytoma --  grade i astrocytoma
+	##s --  grade i astrocytoma
+Triples tail:
+	 erythema (C0041834) -->  erythema of distal phalanx of middle fingers of both hands (C2071634)
+	 pinta nos (C0031946) -->  urine (C0042037)
+	 epithelial neoplasms (C1368683) -->  epithelial tumor , malignant (C0007097)
+	 grade i astrocytoma (C1704230) -->  astrocytomas , juvenile pilocytic (C0280783)
+	 acute ischemic stroke (C5392833) -->  ischemic stroke (C0948008)
+Sentences head:
+	 [ clinical characteristics of the initial period of salmonellosis caused by s . typhimurium in children ] .
+	 objective to assess whether a sustained optimal haemoglobin value in the 3 months after admission for heart failure ( hf ) decompensation reduces morbidity and mortality during the 12 months after admission for acute hf .
+	 as 50 % of patients with high - grade sarcomas will die from metastatic disease , improvements in survival rates will only come from improvements in response to systemic therapy .
+Edges head:
+	salmon --  salmonella gastroenteritis
+	##ellosis --  salmonella gastroenteritis
+	children --  human - origin
+	heart --  right ventricular insufficiency
+	failure --  right ventricular insufficiency
+	hf --  right ventricular insufficiency
+	patients --  human - origin
+	high --  nhl
+	- --  nhl
+	grade --  nhl
+Triples head:
+	 kif23 gene (C1416697) -->  human - origin (C0086418)
+	 gastroenteritis astroviral (C0854308) -->  salmonella gastroenteritis (C0036114)
+	 biventricular failure (C0685095) -->  right ventricular insufficiency (C2939447)
+	 adult nhl (C0220605) -->  nhl (C4721532)
+	 free fatty acid receptor 4 , human (C1957129) -->  human - origin (C0086418)
+Sentences tail:
+	 phagocytic behaviour towards baker ' s yeast distinguishes pathogenic from non - pathogenic naegleria .
+	 in addition , we also show that the diffusion of the boron atoms in the molten si is boosted by a thermally induced convection in the silicon melt : the gaussian intensity distribution of the laser beam increases the temperature - gradient - induced surface tension gradient , causing the molten si to circulate by marangoni convection .
+	 in the largest studies , analysis of transferrin levels for the most common complications revealed a relative risk increase of 2 . 52 when operating on patients with low transferrin levels .
+Edges tail:
+	na --  naegeli ' s syndrome
+	##eg --  naegeli ' s syndrome
+	##ler --  naegeli ' s syndrome
+	##ia --  naegeli ' s syndrome
+	silicon --  silicon
+	patients --  human - origin
+	patients --  human - origin
+	patients --  human - origin
+	acute --  acute coronary syndromes
+	coronary --  acute coronary syndromes
+Triples tail:
+	 naegeli ' s syndrome (C0343111) -->  absent fingerprints (C1834414)
+	 silicon (C0037107) -->  octinoxate 1 . 5 g in 30 g topical emulsion [ no7 protect and perfect foundation sunscreen broad spectrum spf 15 deeply beige (C3500757)
+	 human - origin (C0086418) -->  eptotermin alfa (C1454054)
+	 human - origin (C0086418) -->  nr5a1 gene (C1417838)
+	 human - origin (C0086418) -->  eptotermin alfa (C1454054)
+Sentences head:
+	 the evidence suggests that a23187 acts at the sarcoplasmic reticulum of frog muscle , causing the release of stored ca2 + , and the consequent rise in [ ca2 + ] i stimulates a ca2 + - activated protease which is responsible for the myofilament degradation .
+	 conclusions the lower frequency of the e2 allele in demented ds subjects compared to age - matched nondemented ds controls suggests a protective effect for apoe e2 in the development of dementia in ds .
+	 one is sr ( n - 1 ) cu ( n ) o ( 2n - 1 ) ( n = 2 , 3 ) , the so - called spin - ladder compounds , and the other is acuo2 ( a = ca - sr ) crystallizing in the infinite - layer structure , which is a parent structure for all copper oxide superconductors .
+Edges head:
+	a2 --  a 23187
+	##31 --  a 23187
+	##87 --  a 23187
+	dem --  dementia , familial
+	##ented --  dementia , familial
+	ds --  gorlin psaume syndrome
+	ds --  gorlin psaume syndrome
+	dementia --  dementia , familial
+	ds --  gorlin psaume syndrome
+	copper --  copper dioxide ( cuo2 )
+Triples head:
+	 4 - benzoxazolecarboxylic acid , 5 - ( methylamino ) - 2 - ( ( ( 2r , 3r , 6s , 8s (C0000699) -->  a 23187 (C0878412)
+	 fibrocystic liver (C3275631) -->  gorlin psaume syndrome (C1510460)
+	 amentias (C0497327) -->  dementia , familial (C0751071)
+	 copper ( as cupric oxide ) (C0056598) -->  copper dioxide ( cuo2 ) (C2717826)
+	 oxide (C0030015) -->  soda lime (C0074716)
+Sentences tail:
+	 methods we performed a retrospective review of all patients with dmd from february 2016 to february 2020 who underwent evaluation at associated pediatric and adult neuromuscular disease clinics .
+	 longitudinal 2d epsi studies of hyperpolarized - [ 1 - 13c ] gluconolactone metabolism and t2 - weighted magnetic resonance imaging ( mri ) were performed in rats bearing orthotopic u251 tumors following treatment with tmz to examine the ability of hyperpolarized - [ 1 - 13c ] gluconolactone to report on treatment response .
+	 the silver jubilee of its appearance .
+Edges tail:
+	patients --  human - origin
+	dmd --  becker muscular dystrophy
+	dmd --  muscular dystrophy , duchenne - becker
+	rats --  rats
+	u251 --  glioblastoma
+	tumors --  glioblastoma
+	silver --  ag element
+	cov --  covid - 19 pandemics
+	##id --  covid - 19 pandemics
+	- --  covid - 19 pandemics
+Triples tail:
+	 human - origin (C0086418) -->  a - kinase anchor protein 350 kda (C0768673)
+	 becker muscular dystrophy (C0917713) -->  muscular dystrophy (C0026850)
+	 rats (C0034693) -->  laboratory rats (C0086893)
+	 glioblastoma (C1621958) -->  malignant neoplasm (C1306459)
+	 ag element (C0037125) -->  wolfram (C0041383)
+Sentences head:
+	 neonatal osteomyelitis and meningitis caused by group b streptococci .
+	 we used hierarchical exponential growth curve modeling techniques to examine whether community socioeconomic characteristics uniquely influence the incidence of reported covid - 19 cases in the urban built environment .
+	 animal salmonellosis in peninsular malaysia .
+Edges head:
+	neonatal --  unspecified osteomyelitis
+	osteomyelitis --  unspecified osteomyelitis
+	meningitis --  pachymeningitis
+	cov --  covid - 19 pandemics
+	##id --  covid - 19 pandemics
+	- --  covid - 19 pandemics
+	19 --  covid - 19 pandemics
+	animal --  salmonella gastroenteritis
+	salmon --  salmonella gastroenteritis
+	##ellosis --  salmonella gastroenteritis
+Triples head:
+	 chondritis ( disorder ) (C1285334) -->  unspecified osteomyelitis (C0029443)
+	 inflammatory morphology (C1444073) -->  pachymeningitis (C0030167)
+	 disease caused by wuhan coronavirus (C5203670) -->  covid - 19 pandemics (C5392141)
+	 ep (C0014508) -->  salmonella gastroenteritis (C0036114)
+	 product containing rosuvastatin calcium (C0965129) -->  zd 4522 (C1130493)
+Sentences tail:
+	 in lower rectal cancer located < 10 cm from the anal verge ( n = 510 ) , the 5 - year cumulative lrr of patients without any remaining three factors was 4 . 4 % , with one factor was 13 . 0 % , with two factors was 22 . 2 % , and with all three factors was 41 . 6 % .
+	 the case is presented of a 34 - year - old man , an insulin - dependent diabetic , who was found decomposed in his apartment .
+	 supplementing the known genetic diversity of thermosynechococcus , we report draft metagenome - assembled genomes of two thermosynechococcus recovered from ferrous carbonate hot springs in japan .
+Edges tail:
+	lower --  tumour of rectum
+	rectal --  tumour of rectum
+	cancer --  tumour of rectum
+	patients --  human - origin
+	man --  human - origin
+	insulin --  immune mediated diabetes
+	- --  immune mediated diabetes
+	dependent --  immune mediated diabetes
+	insulin --  diabetes mellitus , ketosis - prone
+	- --  diabetes mellitus , ketosis - prone
+Triples tail:
+	 human - origin (C0086418) -->  plag1 zinc finger protein (C1418629)
+	 tumour of rectum (C0034885) -->  cancer of rectum (C0007113)
+	 human - origin (C0086418) -->  inhibitor of growth family , member 1 - like gene (C2697655)
+	 immune mediated diabetes (C0011854) -->  varicella ( disorder ) (C0008049)
+	 diabetes mellitus , ketosis - prone (C3837958) -->  sreat - steroid - responsive encephalopathy associated with autoimmune thyroiditis (C0393639)
+Sentences head:
+	 we conclude from these results that 2 - aminocrotonate is the intermediate which serves as a source of reducing equivalent for ferricyanide , and nonstoichiometric amount of ferricyanide reduction may be attributed to some secondary reactions of ferricyanide with compounds derived from the oxidation product of 2 - aminocrotonate .
+	 tensa pathology was found in 6 % of the ears in the old cohort and in 24 % in the young cohort .
+	 all children underwent post - operative us and dr ; a significant reduction in hydronephrosis ( apd ) on follow - up was noted in both groups ( p = 0 . 0001 ) .
+Edges head:
+	ferric --  ferric hexacyanide
+	##yan --  ferric hexacyanide
+	##ide --  ferric hexacyanide
+	ferric --  ferric hexacyanide
+	##yan --  ferric hexacyanide
+	##ide --  ferric hexacyanide
+	ferric --  ferric hexacyanide
+	##yan --  ferric hexacyanide
+	##ide --  ferric hexacyanide
+	tens --  hypersensitivity syndrome , carbamazepine - induced , susceptibility to
+Triples head:
+	 ferricyanides (C0015864) -->  ferric hexacyanide (C0117554)
+	 erythema (C0041834) -->  stevens johnson syndrome toxic epidermal necrolysis spectrum (C3658302)
+	 wolfram syndrome 1 (C4551693) -->  hydronephrosis (C0020295)
+	 mcgf gene (C1708434) -->  human - origin (C0086418)
+	 cd191 antigen , human (C1872412) -->  human - origin (C0086418)
+Sentences tail:
+	 in the 29 patients for whom adequate surgical specimens were available and results of standard mri scans were normal , our special protocol mri scans showed the abnormality in 27 ( 93 % ) .
+	 this article is based on the address given by the author at the 2020 virtual meeting of the american society of human genetics ( ashg ) on october 26 , 2020 .
+	 for cohort b , docetaxel followed by docetaxel is the most cost - effective therapeutic strategy ( 81 , 463 for 4 . 05 life - years ) .
+Edges tail:
+	patients --  human - origin
+	human --  human - origin
+	docetaxel --  taxoltere metro
+	docetaxel --  taxoltere metro
+	mal --  crossunited fracture
+	##un --  crossunited fracture
+	##ion --  crossunited fracture
+	bs --  mgrisce1
+	bs --  congenital telangiectatic erythemas
+	children --  human - origin
+Triples tail:
+	 human - origin (C0086418) -->  rasd3 (C5202677)
+	 human - origin (C0086418) -->  eb1 (C1705567)
+	 taxoltere metro (C0904644) -->  docetaxel (C0246415)
+	 crossunited fracture (C0206230) -->  malunion of fracture , site unspecified (C0158454)
+	 human - origin (C0086418) -->  foxa2 (C1415627)
+Sentences head:
+	 aim to study the effect of changes in per capita alcohol sales and indicators of alcoholism treatment on admissions to inpatient care and mortality for liver cirrhosis and alcoholism , alcohol intoxication and alcohol psychosis ( aaa ) .
+	 involvement of nk1 + t cells and their ifn - gamma production in the generalized shwartzman reaction .
+	 clinical diagnosis of melanoma can be difficult .
+Edges head:
+	alcoholism --  aerodigestive tract cancer , squamous cell , alcohol - related , protection against
+	alcoholism --  alcohol abuse , unspecified
+	liver --  cirrhosis
+	cirrhosis --  cirrhosis
+	alcoholism --  aerodigestive tract cancer , squamous cell , alcohol - related , protection against
+	alcoholism --  alcohol abuse , unspecified
+	alcohol --  alcoholic intox
+	intoxication --  alcoholic intox
+	alcohol --  alcoholic psychoses
+	psychosis --  alcoholic psychoses
+Triples head:
+	 surgery (C0038895) -->  alcoholic intox (C0001969)
+	 fibrosis stage : finding : point in time : serum / plasma : ordinal (C1954434) -->  cirrhosis (C1623038)
+	 alcoholic psychoses (C0033936) -->  alcohol abuse , unspecified (C0085762)
+	 abdominal aortic aneurysm screening ( procedure ) (C3698466) -->  abdominal aortic aneurysm (C0162871)
+	 genetics (C0017399) -->  alcoholic psychoses (C0033936)
+Sentences tail:
+	 participants were randomly assigned to 10 sessions of ' social engage ' ( s - eng ; n = 32 ) or care - as - usual ( cau ; n = 30 ) , with follow - up assessments at 3 weeks , 6 weeks , and 10 weeks .
+	 drug - induced changes in " good " feelings and overall drug responses were attenuated in the parkinsonian patients .
+	 nafld was found to be a significantly independent associated with ed .
+Edges tail:
+	participants --  human - origin
+	parkinson --  parkinson disease 2 , autosomal recessive juvenile
+	##ian --  parkinson disease 2 , autosomal recessive juvenile
+	patients --  human - origin
+	nafld --  liver disease , alcoholic , susceptibility to , 1
+	ed --  sack syndrome
+	acet --  alpha - acetolactate , ( s ) - isomer
+	##ola --  alpha - acetolactate , ( s ) - isomer
+	##ct --  alpha - acetolactate , ( s ) - isomer
+	##ate --  alpha - acetolactate , ( s ) - isomer
+Triples tail:
+	 human - origin (C0086418) -->  h2bc20p (C5202788)
+	 human - origin (C0086418) -->  baf170 protein , human (C1430442)
+	 parkinson disease 2 , autosomal recessive juvenile (C1868675) -->  parkinson disease , park20 ( diagnosis ) (C3836550)
+	 sack syndrome (C0268338) -->  periodontal disease ( disorder ) (C0031090)
+	 alpha - acetolactate , ( s ) - isomer (C0895072) -->  alpha - acetolactate (C0051308)
+Sentences head:
+	 the study population comprised 227 working coal miners aged 34 - 50 years consisting of 75 miners heavily exposed to underground coal dust with pulmonary radiographs classified as 0 / 1 or 1 / 0 by the international labour office classification , 75 exposed miners with radiographs classified as normal ( 0 / 0 ) , and 77 miners slightly exposed to coal dust with normal radiographs .
+	 these results demonstrated that the water extract of whole plant of piper sarmentosum has a hypoglycemic effect in rats .
+	 the expression of cd44v6 was more frequently observed in pcna - positive patients than in pcna - negative patients ( p = 0 . 019 ) , but the expression of pcna was not a statistically significant prognostic indicator .
+Edges head:
+	coal --  lignite
+	coal --  lignite
+	coal --  lignite
+	piper --  piper sarmentosum
+	sar --  piper sarmentosum
+	##ment --  piper sarmentosum
+	##osum --  piper sarmentosum
+	rats --  rats
+	patients --  human - origin
+	patients --  human - origin
+Triples head:
+	 coal (C0009131) -->  lignite (C3179446)
+	 cdf rat , inbred (C0034703) -->  rats (C0034693)
+	 piper (C0330232) -->  piper sarmentosum (C1887620)
+	 oncogene h - ras (C1616867) -->  human - origin (C0086418)
+	 water rat (C0324931) -->  rats (C0034693)
+Sentences tail:
+	 methods of creating pneumoperitoneum : a review of techniques and complications .
+	 graft survival rates and hla antigen frequencies in renal cadaver transplant recipients with hepatitis b antigenemia .
+	 ischemic stroke represents a major cause of mortality worldwide .
+Edges tail:
+	pneum --  pneumoperitoneum
+	##oper --  pneumoperitoneum
+	##itoneum --  pneumoperitoneum
+	hepatitis --  chronic hepatitis b
+	b --  chronic hepatitis b
+	antigen --  chronic hepatitis b
+	##emia --  chronic hepatitis b
+	ischemic --  acute ischemic stroke
+	stroke --  acute ischemic stroke
+	yers --  infection by yersinia enterocolitica
+Triples tail:
+	 pneumoperitoneum (C0032320) -->  fibrosing syndrome , peritoneal (C0521607)
+	 chronic hepatitis b (C0524909) -->  hepatitis h (C0854496)
+	 acute ischemic stroke (C5392833) -->  ischemic stroke (C0948008)
+	 human - origin (C0086418) -->  arx wt allele (C2699121)
+	 infection by yersinia enterocolitica (C0238528) -->  intestinal infection due to pseudomonas ( diagnosis ) (C0152515)
+Sentences head:
+	 subjects three groups of 30 stunted but not wasted children ( height for age z - score < or = - 2 . 0 , weight for height z - score > or = - 2 . 0 )
+	 our cases demonstrate a less severe form of hepatitis - associated aplastic anemia , and together with other data , suggest that parvovirus b19 is at least one cause of hepatitis - associated aplastic anemia , and may be a heretofore underrecognized hepatotrophic virus .
+	 a primary infection in 4 of the 124 ebv seropositive healthy controls in contrast to no primary infections in the ms ebv seropositive group was significant ( p = 0 . 049652 , fishers exact test ) .
+Edges head:
+	st --  malnutrition ( e40 - e46 )
+	##unted --  malnutrition ( e40 - e46 )
+	waste --  [ d ] wasting disease ( context - dependent category )
+	##d --  [ d ] wasting disease ( context - dependent category )
+	children --  human - origin
+	hepatitis --  bone marrow eryth . hypoplasia ( finding )
+	- --  bone marrow eryth . hypoplasia ( finding )
+	associated --  bone marrow eryth . hypoplasia ( finding )
+	hepatitis --  aplastic anemia , susceptibility to
+	- --  aplastic anemia , susceptibility to
+Triples head:
+	 dilated cardiomyopathy due to taurine deficiency ( disorder ) (C1531686) -->  malnutrition ( e40 - e46 ) (C0162429)
+	 genetics (C0017399) -->  [ d ] wasting disease ( context - dependent category ) (C0043046)
+	 microrna 20b gene (C1825999) -->  human - origin (C0086418)
+	 unspecified disorder of liver (C0023895) -->  abnormal functions liver (C0086565)
+	 hi (C0019665) -->  erythema infectiosum (C0085273)
+Sentences tail:
+	 the objective of the present study was to identify bovine oviductal fluid proteins that associate with the bovine zona pellucida .
+	 results all patients were followed up for 14 to 47months , with an average of 31 . 53months .
+	 the opposite pattern was seen with regard to aspirin .
+Edges tail:
+	bovine --  bos taurus taurus ( organism )
+	bovine --  bos taurus taurus ( organism )
+	patients --  human - origin
+	aspirin --  dispril
+	cl --  ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid
+	- --  ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid
+	pf --  ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid
+	##es --  ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid
+	##a --  ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid
+	6 --  6 - fluoro - epsp
+Triples tail:
+	 bos taurus taurus ( organism ) (C1140701) -->  kuchinoshima cattle breed (C1297623)
+	 human - origin (C0086418) -->  platelet - derived growth factor alpha chain (C1335200)
+	 dispril (C0917836) -->  aspirin [ antiplatelet ] (C0004057)
+	 6 - fluoro - epsp (C0382073) -->  organophosphorus compounds (C0029254)
+	 ( 4 - chloro - 2 - ( ( 2 - fluoro - 5 - ( propylsulfonyl ) phenyl ) ethynyl ) phenoxy ) acetic acid (C3252663) -->  sulphone - chemical (C0038761)
+Sentences head:
+	 the inability to reach the native conformation also prevented fad attachment , indicating that a specific conformation of the protein is a prerequisite for fad - histidyl bond formation .
+	 larger parenting discrepancies at time 1 predicted greater child anxiety as rated by teachers ; greater hostility - competitiveness and lower harmony forecast higher child aggression .
+	 on sscp analysis , eight of 80 cases of chronic pancreatitis showed alterations ( two in exon 5 , four in exon 6 , two in exon 7 ) .
+Edges head:
+	fad --  flavitan
+	child --  human - origin
+	child --  human - origin
+	chronic --  chronic pancreatitis ( diagnosis )
+	pancreatitis --  chronic pancreatitis ( diagnosis )
+	breast --  familial breast cancer , male ( diagnosis )
+	breast --  mammary carcinoma , human
+	neoplasms --  familial breast cancer , male ( diagnosis )
+	neoplasms --  mammary carcinoma , human
+	cov --  covid - 19 pandemics
+Triples head:
+	 riboflavin 5 ' - ( trihydrogen diphosphate ) , p ' - 5 ' - ester with adenosine (C0015540) -->  flavitan (C0947672)
+	 ec 3 . 4 . 21 . - (C0966207) -->  human - origin (C0086418)
+	 spink1 , 1 . 3 - kb del (C2674674) -->  chronic pancreatitis ( diagnosis ) (C0149521)
+	 familial breast cancer (C0346153) -->  familial breast cancer , male ( diagnosis ) (C1861906)
+	 disease caused by wuhan coronavirus (C5203670) -->  covid - 19 pandemics (C5392141)
+Sentences tail:
+	 an immunopotentiating factor associated with spleen cells of c57bl / 6j mice bearing the 3ll tumor is described .
+	 all participants gave signed consent and responded to a questionnaire .
+	 of particular interest is the new option of topical therapy with diacerein 1 % cream .
+Edges tail:
+	mice --  mice
+	3 --  fibrothecoma
+	##ll --  fibrothecoma
+	tumor --  fibrothecoma
+	participants --  human - origin
+	dia --  zondar
+	##cer --  zondar
+	##ein --  zondar
+	calcium --  product containing calcium ( medicinal product )
+	magnesium --  product containing magnesium
+Triples tail:
+	 mice (C1331371) -->  unclassified mus (C3105279)
+	 fibrothecoma (C0039747) -->  fibrothecoma (C4721918)
+	 human - origin (C0086418) -->  golim4 wt allele (C3538775)
+	 zondar (C1529954) -->  diacerein ( product ) (C0057678)
+	 product containing calcium ( medicinal product ) (C0006675) -->  calcium [ mass / volume ] in serum or plasma - - 3rd specimen post xxx challenge (C0943599)
+Sentences head:
+	 background the pancreatic immune - related adverse event ( irae ) is a rare but increasingly occurrence disease with limited knowledge , which was associated with the use of immune checkpoint inhibitors ( icis ) .
+	 we did not find any significant relationship between enos g894t genotypes and alleles with susceptibility to pc .
+	 as etiological causation is accepted the parents multifactorial action of nutritional imbalance , tobacconism and the effect of weed - killers - - so much employed in our country - - which set in motion , all of them , the output of free radicals acting upon dna of germinative cells .
+Edges head:
+	ir --  rds - respiratory distress syndrome of newborn
+	##ae --  rds - respiratory distress syndrome of newborn
+	pc --  pnh1
+	pc --  hemoglobinuria , cold paroxysmal
+	tobacco --  nicotine addiction
+	##nis --  nicotine addiction
+	##m --  nicotine addiction
+	pyrimidine --  product containing pyrimidine ( product )
+	geo --  bacillus thermoglucosidasius ( organism )
+	##ba --  bacillus thermoglucosidasius ( organism )
+Triples head:
+	 metabolic aspects (C0025520) -->  rds - respiratory distress syndrome of newborn (C0035220)
+	 acute disease / disorder (C0001314) -->  hemoglobinuria , cold paroxysmal (C0086774)
+	 nicotine dependence , unspecified (C0028043) -->  nicotine addiction (C5241305)
+	 alpha - ( 4 - methyl - 1 - piperazinyl ) - 3 ' - ( ( 4 - ( 3 - pyridyl ) - 2 - (C0935989) -->  product containing pyrimidine ( product ) (C0034284)
+	 parageobacillus (C4431382) -->  bacillus thermoglucosidasius ( organism ) (C0314906)
+Sentences tail:
+	 late fetal growth restriction has increasingly gain interest .
+	 finally , an animal model for osteolysis was created and various interface conditions were compared concerning their resistance to particle migration .
+	 compared embryologic , clinical outcomes : dheas untreated ( a1 ) vs . treated ( a2 ) ; metformin untreated ( c1 ) vs . treated ( c2 ) and a1 / a2 / c1 / c2 against normal - control - b group .
+Edges tail:
+	late --  slow fetal growth , unspecified
+	fetal --  slow fetal growth , unspecified
+	growth --  slow fetal growth , unspecified
+	restriction --  slow fetal growth , unspecified
+	oste --  osteolysis
+	##olysis --  osteolysis
+	metformin --  metformin hydrochloride ( substance )
+	dopamine --  intropin
+	dopamine --  intropin
+	ce --  5 - ( ( benzhydrylsulfinyl ) methyl ) thiazole
+Triples tail:
+	 slow fetal growth , unspecified (C0015934) -->  mirage syndrome (C4284088)
+	 osteolysis (C4721411) -->  other disorders of bone (C0495006)
+	 metformin hydrochloride ( substance ) (C0770893) -->  iinvokamet ( canagliflozin 50 mg / metformin hydrochloride 1000 mg ) 24hr extended release oral tablet (C4290578)
+	 rats (C0034693) -->  cyp2d5 (C1333193)
+	 5 - ( ( benzhydrylsulfinyl ) methyl ) thiazole (C4742702) -->  ce - 123 (C4742701)
+Sentences head:
+	 significantly greater inflammation and fibrosis by bleomycin were developed in muc5ac lungs compared to muc5ac lungs .
+	 the expression of gst - mu was strongly positive in acnu - treated brain tumors , while p - glycoprotein was overexpressed in vincristine - treated brain tumors .
+	 caesarean delivery is a significant risk factor for prh .
+Edges head:
+	inflammation --  innate inflammatory response
+	fibrosis --  cirrhosis
+	bleomycin --  bleomycine bellon
+	brain --  intracranial tumor
+	tumors --  intracranial tumor
+	brain --  intracranial tumor
+	tumors --  intracranial tumor
+	pr --  pnh1
+	##h --  pnh1
+	pr --  hemoglobinuria , cold paroxysmal
+Triples head:
+	 liver cirrhosis (C0023890) -->  cirrhosis (C1623038)
+	 inflammatory reaction (C0021368) -->  innate inflammatory response (C5200801)
+	 bleo (C0005740) -->  bleomycine bellon (C1449827)
+	 metastasis to base of skull (C2026272) -->  intracranial tumor (C1527390)
+	 harley syndrome (C0272129) -->  hemoglobinuria , cold paroxysmal (C0086774)
+Sentences tail:
+	 background breast cancer is the most common malignancy dia - gnosed in women , and the incidence gradually increases .
+	 hepatocellular carcinoma ( hcc ) often recurs in the remnant liver after hepatectomy .
+	 approximately 30 % of the participants were seropositive for sars - cov - 2 at baseline .
+Edges tail:
+	breast --  familial breast cancer , male ( diagnosis )
+	breast --  mammary carcinoma , human
+	cancer --  familial breast cancer , male ( diagnosis )
+	cancer --  mammary carcinoma , human
+	malignancy --  tumour , benign
+	women --  human - origin
+	hepatocellular --  hepatoblastoma caused by somatic mutation
+	hepatocellular --  liver cell cancer ( hepatocellular carcinoma )
+	carcinoma --  hepatoblastoma caused by somatic mutation
+	carcinoma --  liver cell cancer ( hepatocellular carcinoma )
+Triples tail:
+	 tumour , benign (C0086692) -->  adenoma , growth hormone secreting (C0001433)
+	 human - origin (C0086418) -->  x - linked protein sts1769 (C3715067)
+	 familial breast cancer , male ( diagnosis ) (C1861906) -->  familial breast cancer (C0346153)
+	 hepatoblastoma caused by somatic mutation (C2676033) -->  liver cell cancer ( hepatocellular carcinoma ) (C2239176)
+	 liver cell cancer ( hepatocellular carcinoma ) (C2239176) -->  fever (C0015967)
+Sentences head:
+	 patients experiencing an improvement in lvef 40 % and lvidd 6 . 0 cm were termed responders , absolute change in lvef of 5 % and lvef < 40 % were termed partial responders , and the remaining patients with no significant improvement in lvef were termed nonresponders .
+	 tae was performed by administration of a mixture of iodized oil , adriamycin , and mitomycin c , followed by injection of gelatin sponge particles ( 1 - mm pieces ) .
+	 in the uk pmdis are the cheapest type of device on the market and are usually the method of choice for those patients able to use them .
+Edges head:
+	patients --  human - origin
+	patients --  human - origin
+	adri --  adriblastine
+	##amycin --  adriblastine
+	mitomycin --  mutamycin
+	c --  mutamycin
+	patients --  human - origin
+	pen --  litopenaeus vannamei ( boone , 1931 )
+	##ae --  litopenaeus vannamei ( boone , 1931 )
+	##us --  litopenaeus vannamei ( boone , 1931 )
+Triples head:
+	 gltp domain - containing protein 1 (C2239498) -->  human - origin (C0086418)
+	 14 - hydroxydaunomycin (C0013089) -->  adriblastine (C2936928)
+	 mitomycin 5 mg intravenous powder for solution [ mutamycin ] (C4281983) -->  mutamycin (C0702051)
+	 cell surface antigen ms2 (C1314771) -->  human - origin (C0086418)
+	 how to lower cholesterol with diet (C4735573) -->  product containing carbohydrate (C0007004)
+Sentences tail:
+	 the ria appears as a very sensitive test since six sera gave a positive reaction with the ria and a negative reaction with the if on c . luciliae .
+	 the pressure - induced dissociation of the dimeric dna binding domain of the e2 protein of human papillomavirus ( e2 - dbd ) is a reversible process with a kd of 5 . 6 x 10 ( - 8 ) m at ph 5 . 5 .
+	 further analysis of chemokine action on lymphocytic cells has shown the potent migration - promoting capacity of mip - 1beta on human thymocytes .
+Edges tail:
+	c --  crithidia luciliae ( organism )
+	. --  crithidia luciliae ( organism )
+	luc --  crithidia luciliae ( organism )
+	##ilia --  crithidia luciliae ( organism )
+	##e --  crithidia luciliae ( organism )
+	human --  human papillomavirus group , nos
+	papillomavirus --  human papillomavirus group , nos
+	human --  human - origin
+	gaba --  gamma - aminobutyric acid , zinc salt ( 2 : 1 )
+	lor --  ( z ) - 1 - ( 2 - chloro - 2 - ( 2 , 4 - dichlorophenyl ) ethenyl ) - 1h - 1 ,
+Triples tail:
+	 crithidia luciliae ( organism ) (C0320273) -->  crithidia (C0010336)
+	 human papillomavirus group , nos (C0021344) -->  vulval verrucous carcinoma of buschke - lowenstein (C1321480)
+	 human - origin (C0086418) -->  vegfr - 1 (C1705150)
+	 ( z ) - 1 - ( 2 - chloro - 2 - ( 2 , 4 - dichlorophenyl ) ethenyl ) - 1h - 1 , (C0087712) -->  loreclezole (C0083257)
+	 gamma - aminobutyric acid , zinc salt ( 2 : 1 ) (C0969637) -->  gamma aminobutyric acid (C0016904)
+Sentences head:
+	 the change in lp ( a ) concentration was significantly different from a comparable group of 35 patients with elevated lp ( a ) who were not treated with a pcsk9mab ( - 22 % vs . - 2 % , p < . 001 ) .
+	 chronic mood disorders pose an important mental health problem .
+	 the biopsy cavity was localized and outlined on sequential ct images using the surgical clips ( when present ) as well as the residual seroma .
+Edges head:
+	patients --  human - origin
+	chronic --  chronically ill
+	mood --  chronically ill
+	disorders --  chronically ill
+	mental --  severe mental disorders
+	health --  severe mental disorders
+	ser --  seroma ( diagnosis )
+	##oma --  seroma ( diagnosis )
+	diphther --  infection due to corynebacterium
+	##ia --  infection due to corynebacterium
+Triples head:
+	 microrna 29a gene (C1835841) -->  human - origin (C0086418)
+	 unspecified mental disorder (C0004936) -->  severe mental disorders (C4046029)
+	 chronic disease (C0008679) -->  chronically ill (C0008715)
+	 incisional hernia with gangrene (C0156122) -->  seroma ( diagnosis ) (C0262627)
+	 diphtheritic peripheral neuritis ( disorder ) (C1268603) -->  infection due to corynebacterium (C0010153)
+Sentences tail:
+	 [ 50th anniversary of the all - union committee to control rheumatism ] .
+	 the presence , location , host specificity , identity , and quantity of rat plasma proteins bound to bloodstream forms of trypanosoma brucei subsp .
+	 epstein - barr virus ( ebv ) is detected in all cells of the majority of npc cases regardless of geographic origin .
+Edges tail:
+	rheumat --  rheumatism ( diagnosis )
+	##ism --  rheumatism ( diagnosis )
+	rat --  rats
+	epstein --  epstein - barr virus infection ( disorder )
+	- --  epstein - barr virus infection ( disorder )
+	barr --  epstein - barr virus infection ( disorder )
+	virus --  epstein - barr virus infection ( disorder )
+	npc --  carcinoma of the nasopharynx
+	patient --  human - origin
+	rapamycin --  i2190a
+Triples tail:
+	 rheumatism ( diagnosis ) (C0035435) -->  marfan syndrome (C0024796)
+	 rats (C0034693) -->  wistar rat (C0034716)
+	 epstein - barr virus infection ( disorder ) (C0149678) -->  secondary hemophagocytic lymphohistiocytosis (C4054044)
+	 carcinoma of the nasopharynx (C2931822) -->  hearing noises (C0040264)
+	 human - origin (C0086418) -->  fgf23 (C1414605)
+Sentences head:
+	 background vaccination against coronavirus disease 2019 ( covid - 19 ) is underway globally to prevent the infection caused by the severe acute respiratory syndrome coronavirus 2 .
+	 the classification of pneumonia , diarrhoea with signs of dehydration , and malnutrition showed sensitivities of 88 % , 76 % , and 85 % and specificities of 87 % , 98 % , and 96 % , respectively .
+	 m of 1 , 25 dihydroxyvitamin d3 ( vd3 ) showed that hgh increased the total number and nucleation of mnc .
+Edges head:
+	coron --  covid - 19 pandemics
+	##avirus --  covid - 19 pandemics
+	disease --  covid - 19 pandemics
+	2019 --  covid - 19 pandemics
+	cov --  covid - 19 pandemics
+	##id --  covid - 19 pandemics
+	- --  covid - 19 pandemics
+	19 --  covid - 19 pandemics
+	severe --  respiratory syndrome , acute , severe
+	acute --  respiratory syndrome , acute , severe
+Triples head:
+	 disease caused by wuhan coronavirus (C5203670) -->  covid - 19 pandemics (C5392141)
+	 sars coronavirus 2 igg ab [ presence ] in serum or plasma by immunoassay (C5234691) -->  respiratory syndrome , acute , severe (C1175175)
+	 lamb dysentery (C0275622) -->  diarrhoea - infective nos (C0013369)
+	 deficient fluid volume (C0011175) -->  stress , water (C1136135)
+	 lung disease (C0024115) -->  inflammation , lung (C3714636)
+Sentences tail:
+	 there was no difference in level of recall between primiparas and multiparas , or in patients with mild and moderate pain scores versus those patients with severe pain scores .
+	 tcf4 mutations are strongly associated with schizophrenia and cause pitt - hopkins syndrome , which is characterized by severe intellectual disability .
+	 brief ( 15 min ) exposure of myocytes to the no donor , s - nitrosoacetylcysteine ( snac , 100 micro m ) which produced a three - fold increase in intracellular cgmp , also decreased by half the contractile response of cardiac myocytes to iso ( 2 nm ) .
+Edges tail:
+	patients --  human - origin
+	patients --  human - origin
+	schizophrenia --  schizophrenia with or without an affective disorder
+	schizophrenia --  schizophrenia nos
+	pit --  encephalopathy , severe epileptic , with autonomic dysfunction
+	##t --  encephalopathy , severe epileptic , with autonomic dysfunction
+	- --  encephalopathy , severe epileptic , with autonomic dysfunction
+	hopkins --  encephalopathy , severe epileptic , with autonomic dysfunction
+	syndrome --  encephalopathy , severe epileptic , with autonomic dysfunction
+	intellectual --  development disorder , intellectual
+Triples tail:
+	 human - origin (C0086418) -->  cerebellar - degeneration - related antigen 1 (C1437277)
+	 encephalopathy , severe epileptic , with autonomic dysfunction (C1970431) -->  reduced size of penis (C0240701)
+	 development disorder , intellectual (C3714756) -->  chdfidd (C4479246)
+	 schizophrenia nos (C0036341) -->  behavior disorder , childhood (C0008066)
+	 salcaprozate sodium (C2699262) -->  e414 (C2830039)
+Sentences head:
+	 in this scenario , thanks to a strong technological advancement , structural imaging is currently established as the gold - standard of diagnosis in many msk disorders but each single diagnostic modality ( plain films , high - resolution ultrasound , computed tomography and magnetic resonance ) still suffer by a low specificity regarding the characterization of inflammatory processes , the quantification of inflammatory activity levels , and the degree of response to therapy .
+	 all compounds , except acid blue 41 and acid blue 129 ( at up to 100 microm ) , shifted the concentration - response curve of alpha , beta - meatp in the rat vas deferens to the right .
+	 she responded to dapsone alone and the course of the illness was uneventful .
+Edges head:
+	ms --  muscular dystrophy - dystroglycanopathy ( congenital with eye and brain anomalies ) , type a , 1
+	##k --  muscular dystrophy - dystroglycanopathy ( congenital with eye and brain anomalies ) , type a , 1
+	disorders --  muscular dystrophy - dystroglycanopathy ( congenital with eye and brain anomalies ) , type a , 1
+	acid --  ci 62125
+	blue --  ci 62125
+	41 --  ci 62125
+	acid --  acid blue 129
+	blue --  acid blue 129
+	129 --  acid blue 129
+	rat --  rats
+Triples head:
+	 disorganized brain cytoarchitecture (C1856039) -->  muscular dystrophy - dystroglycanopathy ( congenital with eye and brain anomalies ) , type a , 1 (C4284790)
+	 1 - amino - 4 - ( 2 , 4 , 6 - trimethylanilino ) anthraquinone - 2 - sulfonate (C2607328) -->  acid blue 129 (C2607329)
+	 pack rat (C0027683) -->  rats (C0034693)
+	 anthraquinone (C0003174) -->  ci 62125 (C2354505)
+	 4 , 4 ' - sulfonylbisbenzamine (C0010980) -->  dapsoderm - x (C1569265)
+Sentences tail:
+	 a stop - exposure group of 50 males and 50 females received 10 , 000 ppm oxazepam in diet for 26 weeks , after which animals received control diet .
+	 although l - mevalonate alone did not affect ecnos expression , cotreatment with l - mevalonate completely reversed ecnos upregulation by simvastatin .
+	 trends of diabetes and prediabetes prevalence among korean adolescents from 2007 to 2018 .
+Edges tail:
+	oxa --  adumbran
+	##ze --  adumbran
+	##pa --  adumbran
+	##m --  adumbran
+	simvastatin --  synvinolin
+	diabetes --  diabetes mellitus
+	pred --  prediabetes
+	##iab --  prediabetes
+	##etes --  prediabetes
+	upper --  disorders system urinary
+Triples tail:
+	 adumbran (C0702215) -->  agent anxiolytic (C0040616)
+	 synvinolin (C4082576) -->  [ 1s - [ 1alpha , 3alpha , 7beta , 8beta ( 2s * , 4s * ) , 8abeta ] ] - 1 , (C0074554)
+	 prediabetes (C0362046) -->  diabetic cardiomyopathy (C0853897)
+	 diabetes mellitus (C0011849) -->  proliferative diabetic retinopathy - high risk with clinically significant macular edema ( diagnosis ) (C1275953)
+	 disorders system urinary (C0042075) -->  urine output decreased (C0028961)
+Sentences head:
+	 this is a not yet described association that represents a good surgical option for the restoration of large cheek defects that allows good functional and cosmetic result in older patient when minimal surgical invasion and operative duration are necessary because of a patient ' s general condition .
+	 in patients with lung injury caused by acute nitrogen oxide poisoning , physicians should be alert to the risk of patients subsequently developing sop , and timely diagnosis and treatment are essential for complete recovery .
+	 absence of normal activation of the left anterior fusiform gyrus during naming in left temporal lobe epilepsy .
+Edges head:
+	patient --  human - origin
+	patient --  human - origin
+	patients --  human - origin
+	lung --  chronic lung injuries
+	injury --  chronic lung injuries
+	nitrogen --  nitrogen oxides
+	oxide --  nitrogen oxides
+	patients --  human - origin
+	sop --  clinical findings
+	left --  epilepsies , lateral temporal
+Triples head:
+	 cadherin 3 wt allele (C1705437) -->  human - origin (C0086418)
+	 antagonists & inhibitors (C0003139) -->  nitrogen oxides (C0028167)
+	 slc2a3 gene (C1420173) -->  human - origin (C0086418)
+	 blood in urine - haematuria (C0018965) -->  clinical findings (C0037088)
+	 lung injury (C0273115) -->  chronic lung injuries (C2350344)
+Sentences tail:
+	 in type 2 arachnoiditis , there are localized or diffuse filling defects within the contrast column .
+	 resistance to carbapenems was defined according to clinical and laboratory standards institute breakpoints .
+	 5 . metoclopramide 60 mg pretreatment had no consistent effect upon plasma bromocriptine levels , the clinical or hormonal response .
+Edges tail:
+	type --  arachnoiditis
+	2 --  arachnoiditis
+	arach --  arachnoiditis
+	##noid --  arachnoiditis
+	##itis --  arachnoiditis
+	carbapenem --  carbapenem
+	##s --  carbapenem
+	met --  metoclopramide hydrochloride
+	##ocl --  metoclopramide hydrochloride
+	##opram --  metoclopramide hydrochloride
+Triples tail:
+	 arachnoiditis (C0003708) -->  mental status changes postoperative (C0919570)
+	 carbapenem (C0006968) -->  lk - 157 (C2715191)
+	 metoclopramide hydrochloride (C0887128) -->  metoclopramide hcl 5mg / 5ml ( sf ) syrup (C0355390)
+	 cb - 154 (C0701351) -->  bromocriptin (C0006230)
+	 cytomegalovirus disease ( diagnosis ) (C0010823) -->  varicella zoster virus infection (C0586989)
+Sentences head:
+	 [ the significance of immunologic mechanisms in the pathogenesis of renal diseases .
+	 hypothalamic lhrh , pituitary lh and plasma lh levels were measured in rats of both sexes from day 5 - 60 after birth .
+	 lesion - induced axon sprouting in the deafferented striatum of adult rat .
+Edges head:
+	renal --  renal disease nos
+	diseases --  renal disease nos
+	rats --  rats
+	rat --  rats
+	patient --  human - origin
+	c --  cryptosporidium parvum ( organism )
+	. --  cryptosporidium parvum ( organism )
+	parv --  cryptosporidium parvum ( organism )
+	##um --  cryptosporidium parvum ( organism )
+	nitric --  no
+Triples head:
+	 nephrovisceral fistula (C2316305) -->  renal disease nos (C0022658)
+	 send - genusspc (C5205669) -->  rats (C0034693)
+	 rat - bite fever (C0034686) -->  rats (C0034693)
+	 suppressor of tumorigenicity - 6 (C1528437) -->  human - origin (C0086418)
+	 chemistry (C0079107) -->  cryptosporidium parvum ( organism ) (C0085319)
+Sentences tail:
+	 ( 1 ) it gives the analyst a foothold when reconstructing a patient ' s infantile trauma and linking it with his / her present distress .
+	 their ultimate balance influences the change in arterial oxygen tension .
+	 among the three plants studied , the highest vitamin c content was found in parsley from the field .
+Edges tail:
+	patient --  human - origin
+	infantile --  birth trauma
+	trauma --  birth trauma
+	oxygen --  dioxygen
+	vitamin --  ascorbic acid ( as sodium ascorbate )
+	c --  ascorbic acid ( as sodium ascorbate )
+	pars --  crispum , petroselinum
+	##ley --  crispum , petroselinum
+	polyp --  polyp ( disorder )
+	thymic --  carcinoma , thymic
+Triples tail:
+	 human - origin (C0086418) -->  cyclin dependent kinase inhibitor 1a wt allele (C1705522)
+	 birth trauma (C0005604) -->  xanthomatosis , wolman ' s (C0043208)
+	 dioxygen (C0058347) -->  product containing oxygen ( medicinal product ) (C0030054)
+	 ascorbic acid ( as sodium ascorbate ) (C0887557) -->  ascorbic acid 50mg tablet ( product ) (C0974596)
+	 crispum , petroselinum (C0446307) -->  petroselinum sativum / parsley (C3495136)
+Sentences head:
+	 the present study was conducted to do so making some variations in addition to the experimental lepromata , produced in nude mice by sasaki et al . and by hamit , utilizing a leproma - derived and cultivated mycobacterium hi - 75 ( hi - 75 ) .
+	 methods the function of mir - 195 - 5p in nsclc and cisplatin resistance were determined by mtt , scratch assay , transwell assay , and nude mice xenograft experiments .
+	 evidence indicates that the tumor microenvironment ( tme ) plays an important role in tumor progression and metastasis ; however , its role and biological characteristics in dnam - based subtypes of er - positive brca remain largely unknown .
+Edges head:
+	nude --  mus musculus ( organism )
+	mice --  mus musculus ( organism )
+	nsclc --  non - small cell cancer of lung
+	cisplatin --  nsc - 119875
+	mice --  mice
+	tumor --  tumour , benign
+	tumor --  tumour , benign
+	rabbit --  japanese white
+	rats --  rats
+	second --  second injuries
+Triples head:
+	 clinical data interchange standards consortium terminology (C1880104) -->  mus musculus ( organism ) (C0025914)
+	 laboratory mouse (C0025929) -->  mice (C1331371)
+	 cis - platinum ii diamine dichloride (C0008838) -->  nsc - 119875 (C0936226)
+	 malignant neoplasm of lung (C0242379) -->  non - small cell cancer of lung (C0007131)
+	 benign epithelial neoplasm - category (C1302886) -->  tumour , benign (C0086692)
+Sentences tail:
+	 after empiric broad spectrum treatment with piperacillin / tazobactam ( tazobac ) and netilmicin ( netromycin ) , ceftriaxon ( rocephin ) was given for a total treatment time of 10 days .
+	 the standard curves were linear over the range 0 - 200 ng / ml for both venlafaxine and oxydesmethylvenlafaxine in plasma .
+	 conclusions few studies have investigated the risk factors for ppd in ad women .
+Edges tail:
+	taz --  tazobactam sodium
+	##obac --  tazobactam sodium
+	net --  netillin
+	##il --  netillin
+	##mic --  netillin
+	##in --  netillin
+	netr --  netillin
+	##omycin --  netillin
+	ceftriax --  ceftriaxona andreu
+	##on --  ceftriaxona andreu
+Triples tail:
+	 netillin (C2936927) -->  product containing netilmicin ( medicinal product ) (C0027780)
+	 tazobactam sodium (C0724700) -->  tazobactam (C0075870)
+	 ceftriaxona andreu (C1564653) -->  ceftriaxone ( substance ) (C0007561)
+	 sila venlafaxine (C1721158) -->  venlafaxine hydrochloride (C0771200)
+	 desvenlafaxine ( product ) (C1880288) -->  ssris / snris ( selective serotonin reuptake inhibitors / serotonin and norepinephrine reuptake inhibitors ) (C4324235)
+Sentences head:
+	 steroid hormone bioavailability is controlled by the lymphatic system .
+	 an rnai screening of clinically relevant transcription factors regulating human adipogenesis and adipocyte metabolism .
+	 multiple comparisons between wild ( tt ) and mutant ( ct and cc ) genotypes at the rs1045642 locus showed no significant differences of rivaroxaban trough concentrations ( tt vs . ct , p = 0 . 586 ; tt vs . cc , p = 0 . 802 ; and ct vs . cc , p = 0 . 702 ) .
+Edges head:
+	steroid --  steroid
+	human --  human - origin
+	riva --  xarelto
+	##rox --  xarelto
+	##aban --  xarelto
+	gvhd --  homologous wasting disease
+	mac --  mac protocol
+	ric --  o , o - dimethyl s - ( phenylmethyl ) ester phosphorothioic acid
+	desm --  muscular dystrophy - cardiac type ( disorder )
+	##ogle --  muscular dystrophy - cardiac type ( disorder )
+Triples head:
+	 njx aa & / strd sciatic nrv nfs (C1144695) -->  steroid (C0038317)
+	 mir509 - 1 pre - mirna (C4688651) -->  human - origin (C0086418)
+	 rivaroxaban (C1739768) -->  xarelto (C3159309)
+	 graft - versus - host disease prophylaxis (C5396583) -->  homologous wasting disease (C0018133)
+	 methotrexate - containing product (C0025677) -->  mac protocol (C0065465)
+Sentences tail:
+	 independent risk factors for delayed gastric emptying were male sex ( odds ratio = 3 . 20 ; 95 % confidence interval 1 . 11 - 9 . 21 , p = . 031 ) , comorbidity of cardiac ischemia ( odds ratio = 3 . 81 ; 95 % confidence interval 1 . 34 - 10 . 8 , p = . 012 ) , concomitant organ resection ( odds ratio = 3 . 99 ; 95 % confidence interval 1 . 10 - 14 . 4 , p = . 035 ) , and previous upper abdominal surgery ( odds ratio = 7 . 21 ; 95 % confidence interval 2 . 68 - 19 . 4 , p < . 001 ) .
+	 does access to the full range of contraceptive methods increase young women ' s educational attainment ?
+	 while coordination deficits were found in all three groups , children with as were found to be less impaired than those with autistic disorder and pddnos .
+Edges tail:
+	cardiac --  ischaemic heart disease
+	ischemia --  ischaemic heart disease
+	women --  human - origin
+	children --  human - origin
+	as --  puppet children
+	as --  ancr gene
+	autistic --  autistic disorder
+	autistic --  autism , susceptibility to , 1 ( finding )
+	disorder --  autistic disorder
+	disorder --  autism , susceptibility to , 1 ( finding )
+Triples tail:
+	 ischaemic heart disease (C0151744) -->  coronary ( atherosclerosis or artery disease ) or triple vessel disease of the heart ( disorder ) (C2003996)
+	 human - origin (C0086418) -->  comt (C3850446)
+	 puppet children (C0162635) -->  syndrome , 22q11 deletion (C2936346)
+	 engelman ' s disease (C0011989) -->  psychology (C1524060)
+	 human - origin (C0086418) -->  androgen receptor (C1367578)
+Sentences head:
+	 the treatment of oligodactylic hands is made difficult by cutaneous and osseous syndactyly .
+	 all patients underwent anatomical lung resection .
+	 facial injuries due to cycling are prevalent : improved helmet design offering facial protection is recommended .
+Edges head:
+	oligo --  brachydactyly nos
+	##da --  brachydactyly nos
+	##ct --  brachydactyly nos
+	##ylic --  brachydactyly nos
+	hands --  brachydactyly nos
+	cutaneous --  brachydactyly - syndactyly - oligodactyly syndrome
+	cutaneous --  bdsd
+	and --  brachydactyly - syndactyly - oligodactyly syndrome
+	and --  bdsd
+	osseous --  brachydactyly - syndactyly - oligodactyly syndrome
+Triples head:
+	 femur - fibula - ulna complex (C2363814) -->  brachydactyly nos (C0221357)
+	 brachydactyly nos (C0221357) -->  bdsd (C1853137)
+	 bhlhe74 (C1705804) -->  human - origin (C0086418)
+	 number of wound of face ( physical finding ) (C2221492) -->  injury of face (C0015459)
+	 galactosylpyridinoline (C0619727) -->  amino acids (C0002520)
+Sentences tail:
+	 methods quadriceps needle muscle biopsies were obtained from 105 patients with chronic fatigue syndrome and the proportions of type 1 and 2 fibres and fibre atrophy and hypertrophy factors were determined from histochemical preparations , using a semiautomated image analysis system .
+	 complete remission or persistence of only minimal symptoms was obtained in 89 % , and esophageal ulcer healing was achieved in 100 % of subjects taking pyrogastrone , compared with only 50 % ( p less than 0 . 025 ) and 33 % ( p equal 0 . 02 ) , respectively , on control treatment .
+	 thermoeffector thresholds and preferred ambient temperatures of the fok rat .
+Edges tail:
+	patients --  human - origin
+	chronic --  chronic fatigue syndrome ( disorder )
+	fatigue --  chronic fatigue syndrome ( disorder )
+	syndrome --  chronic fatigue syndrome ( disorder )
+	esophageal --  gastric ulcer nos
+	ulcer --  gastric ulcer nos
+	rat --  rats
+	sle --  excess lmw - dna
+	sle --  endocarditis ; libman - sacks ( etiology )
+	patients --  human - origin
+Triples tail:
+	 human - origin (C0086418) -->  microrna gene (C2825314)
+	 chronic fatigue syndrome ( disorder ) (C0015674) -->  haemophilus infection (C0018482)
+	 gastric ulcer nos (C0038358) -->  oesophagogastric ulcer (C0267076)
+	 rats (C0034693) -->  rats , long - evans (C0324537)
+	 human - origin (C0086418) -->  gp150 (C3887680)
+Sentences head:
+	 genome sequences of neurotropic lineage iii listeria monocytogenes isolates ukvdl9 and 2010l - 2198 .
+	 incubations with 3h - cholesterol - labeled acetylated ldl revealed that e2 / 2 cells were most efficient at secreting cholesterol .
+	 no significant differences in minimal inhibitory concentrations ( mics ) and rates of killing were found between tobramycin and gentamicin , and they acted in an additive manner against most of the strains tested .
+Edges head:
+	listeria --  listeria monocytogenes ( organism )
+	monocytogenes --  listeria monocytogenes ( organism )
+	cholesterol --  epicholesterol
+	gentamicin --  gentamicin product
+	human --  human - origin
+	zinc --  zinc glycinate
+	glyc --  zinc glycinate
+	##inate --  zinc glycinate
+	rabbits --  japanese white
+	rabbits --  japanese white
+Triples head:
+	 l . monocytogenes dna naa + probe ql ( unsp spec ) (C2972971) -->  listeria monocytogenes ( organism ) (C0023861)
+	 cholesterol (C0008377) -->  epicholesterol (C0014487)
+	 gentamicin peak serpl - scnc (C0880252) -->  gentamicin product (C3854019)
+	 tgif gene (C1705004) -->  human - origin (C0086418)
+	 calcium ascorbate / calcium threonate / cholecalciferol / cyanocobalamin / folic acid / iron / magnesium malate / pyridoxine hydrochloride / (C3651626) -->  zinc glycinate (C0078781)
+Sentences tail:
+	 hence , homeopathy telemedicine is the pivotal way to cure psychiatric patients remotely in this post - covid - 19 " new normal " context .
+	 a 56 - year - old woman had missing teeth , severe bone loss with mobile teeth , an anterior crossbite , collapsed arches , and maxillary midline deviation .
+	 this study provides insights into the underlying neuropathology of sz .
+Edges tail:
+	patients --  human - origin
+	woman --  human - origin
+	bone --  bone mineral density quantitative trait locus
+	bone --  osteoporosis ; post - traumatic
+	loss --  bone mineral density quantitative trait locus
+	loss --  osteoporosis ; post - traumatic
+	mobile --  etat marbre
+	anterior --  angles classification
+	cross --  angles classification
+	##bit --  angles classification
+Triples tail:
+	 human - origin (C0086418) -->  g9alpha protein , human (C2350813)
+	 human - origin (C0086418) -->  acpp (C1705529)
+	 etat marbre (C0266487) -->  cerebral palsy , athetoid (C0270742)
+	 retrusions , mandibular (C3494426) -->  retrognathia (C3494422)
+	 cavovarus foot deformity (C0039273) -->  spastic paraplegia 38 , autosomal dominant (C2676732)
+Sentences head:
+	 however , few studies demonstrate the association between the prognosis and developed ca - aki in the different periods after the operation .
+	 alpha ( 1 , 3 ) - and alpha ( 1 , 4 ) - fucosylated oligosaccharides such as sialyl - lewis ( x ) ( sialyl - le ( x ) ) and sialyl - lewis ( a ) ( sialyl - le ( a ) ) have been reported to participate in tumor cell adhesion to activated endothelium .
+	 strategies to overcome clinician perceptions of respiratory cultures and other barriers will be vital for improving guideline adherence and antibiotic use in suspected ventilator - associated infection in future studies .
+Edges head:
+	ca --  acute injury of kidney ( disorder )
+	- --  acute injury of kidney ( disorder )
+	aki --  acute injury of kidney ( disorder )
+	tumor --  tumour , benign
+	ventilator --  ventilator - associated pneumonia ( vap )
+	- --  ventilator - associated pneumonia ( vap )
+	associated --  ventilator - associated pneumonia ( vap )
+	infection --  ventilator - associated pneumonia ( vap )
+	patients --  human - origin
+	woman --  human - origin
+Triples head:
+	 stage 1 acute kidney injury (C4524217) -->  acute injury of kidney ( disorder ) (C2609414)
+	 benign tumor of lip (C0153932) -->  tumour , benign (C0086692)
+	 pneumonia ; aspiration (C0032290) -->  ventilator - associated pneumonia ( vap ) (C1701940)
+	 proto - lb (C1705580) -->  human - origin (C0086418)
+	 nov wt allele (C1705973) -->  human - origin (C0086418)
+Sentences tail:
+	 could pure alexia be due to a disconnection syndrome ?
+	 tetracycline is effective , well tolerated , easily administered , and should be considered as the initial therapy for malignant pleural effusions requiring pleural sclerosis .
+	 results serotonin - induced vasodilatation was impaired in fch patients ( fbf ( unit ml / 100 ml forearm tissue / min ) from 3 . 0 ( 0 . 3 ) to 4 . 8 ( 0 . 4 ) ) compared to controls ( fbf from 2 . 9 ( 0 . 3 ) to 6 . 5 ( 0 . 6 ) ; p < 0 . 05 vs . fch ) .
+Edges tail:
+	pure --  alexia without agraphia
+	alex --  alexia without agraphia
+	##ia --  alexia without agraphia
+	disconn --  semiconsciousness
+	##ection --  semiconsciousness
+	syndrome --  semiconsciousness
+	tetracycline --  achromycin
+	malignant --  neoplastic pleural effusion ( disorder )
+	pleural --  neoplastic pleural effusion ( disorder )
+	effusion --  neoplastic pleural effusion ( disorder )
+Triples tail:
+	 semiconsciousness (C0751055) -->  consciousness disorder (C0009792)
+	 alexia without agraphia (C0751840) -->  immunology aspects (C1522005)
+	 neoplastic pleural effusion ( disorder ) (C0080032) -->  tumor - related pain (C0596240)
+	 achromycin (C0740484) -->  tetracycline hydrochloride ( substance ) (C0546879)
+	 human - origin (C0086418) -->  tgfb1 (C0080222)
+Sentences head:
+	 fifty - four cases with a first diagnosed coronary event between 1985 and 1990 , and 108 age - matched control subjects free of coronary heart disease during follow up were included in the study .
+	 in regard to the biopsy technique , scc of the skin was diagnosed mostly as spinocellular carcinoma of the skin in 14 cases ( 53 . 85 % ) without a more precise description of the degree of tumor cells degeneration as well as tumor edge characteristics and type of histological type of tumor .
+	 however , despite an adequate efa composition of breast milk , partially breast - fed 5 months old congolese infants probably did not get enough n - 6 and n - 3 efas from breast milk to meet their efa requirements .
+Edges head:
+	coronary --  coronary diseases
+	coronary --  chds3
+	heart --  coronary diseases
+	heart --  chds3
+	disease --  coronary diseases
+	disease --  chds3
+	scc --  tumor of skin
+	of --  tumor of skin
+	the --  tumor of skin
+	skin --  tumor of skin
+Triples head:
+	 angina pectoris (C0002962) -->  coronary diseases (C0010068)
+	 benign neoplasm of vermilion border of lower lip (C0685950) -->  tumour , benign (C0086692)
+	 cystic min nos (C1511607) -->  tumor of skin (C0037286)
+	 squamous cell carcinoma of bronchus in right upper lobe (C1281891) -->  squamous cell carcinoma ( diagnosis ) (C0007137)
+	 p53 - induced protein pigpc1 (C2986661) -->  human - origin (C0086418)
+Sentences tail:
+	 methods we conducted a clinical and whole - genome investigation of a large caucasian canadian family , in which six out of eight patients are affected by childhood - onset et in four consecutive generations .
+	 the randomized controlled trials ( rcts ) associated with moxibustion for cfs will be included , regardless of language .
+	 in familial cases of diffuse subcortical gliosis has indicated the possibility that there may be other familial or non - familial neurodegenerative diseases caused by prions .
+Edges tail:
+	patients --  human - origin
+	et --  extreme generalized edema
+	cfs --  chronic fatigue syndrome ( disorder )
+	diffuse --  pold
+	subcortical --  pold
+	gli --  pold
+	##osis --  pold
+	phosphoinositide --  inositol , phosphatidyl
+	##s --  inositol , phosphatidyl
+	ut --  rusat
+Triples tail:
+	 human - origin (C0086418) -->  hla - dma wt allele (C4723668)
+	 extreme generalized edema (C0151603) -->  edema ( morphologic abnormality ) (C0013604)
+	 chronic fatigue syndrome ( disorder ) (C0015674) -->  disorder of bone , unspecified (C0005940)
+	 pold (C3711381) -->  white matter disease ( procedure ) (C0270612)
+	 inositol , phosphatidyl (C0031621) -->  glycolipid (C0017950)
+Sentences head:
+	 rad51 has predictive value in ovarian cancer and can be exploited as a predictive biomarker .
+	 tonic and phasic motor activity in the proximal and distal colon of healthy humans .
+	 spontaneously hypertensive rats ( shr ) of 3 to 12 months of age learned and retrieved less information than normotensive wistar - kyoto rats ( wky ) , although no difference was found with animals from 18 and 24 months of age .
+Edges head:
+	ovarian --  malignant neoplasm of ovary
+	cancer --  malignant neoplasm of ovary
+	humans --  human - origin
+	spontaneously --  elevated blood pressure
+	hypertensive --  elevated blood pressure
+	rats --  rats
+	rats --  rats
+	hepatitis --  black fever , amazon
+	delta --  black fever , amazon
+	virus --  black fever , amazon
+Triples head:
+	 hormone preparation , nos (C0019932) -->  malignant neoplasm of ovary (C1140680)
+	 apt1 (C1336575) -->  human - origin (C0086418)
+	 uncontrolled hypertension (C1868885) -->  elevated blood pressure (C0020538)
+	 cyp2d5 (C1333193) -->  rats (C0034693)
+	 mild neurocognitive disorders (C1270972) -->  progressive chorea , hereditary , chronic ( huntington ) (C0020179)
+Sentences tail:
+	 it is concluded that the fissure sealants in this sample may not have received the regular maintenance required to ensure full surface coverage and thus provide maximal caries protection , as inadequately sealed surfaces were more likely to decay than completely sealed surfaces .
+	 objective this analysis aimed to evaluate the effectiveness and safety of salvianolate in preventing vte in perioperative patients .
+	 the major etiologic agent that causes acute gastroenteritis worldwide in young animals and children is group a rotavirus .
+Edges tail:
+	caries --  dentins , carious
+	salv --  salvianolate
+	##iano --  salvianolate
+	##la --  salvianolate
+	##te --  salvianolate
+	vte --  thromboembolism , venous
+	patients --  human - origin
+	acute --  already mapped above aaha id : 858
+	gastroenteritis --  already mapped above aaha id : 858
+	children --  human - origin
+Triples tail:
+	 dentins , carious (C1707305) -->  dental caries , unspecified (C0011334)
+	 human - origin (C0086418) -->  mir376b pre - mirna (C2826522)
+	 thromboembolism , venous (C1861172) -->  thromboembolus (C0040038)
+	 salvianolate (C3252125) -->  plant extract (C0032081)
+	 rotavirus infections (C0035869) -->  congen (C0009678)
+Sentences head:
+	 similarly , children with multisite pain ( vs without ) had significantly worse functional disability ( p < . 001 ) and health - related quality of life scores ( p < . 001 ) .
+	 methods in order to explain the diverse cellular response to tnf , we engineered melanoma and colorectal carcinoma cell lines stably overexpressing this cytokine .
+	 method forty - two children ( 16 males and 26 females , age 3 - 14 years ) with achondroplasia were examined in this study .
+Edges head:
+	children --  human - origin
+	multis --  pain in joint involving multiple sites
+	##ite --  pain in joint involving multiple sites
+	pain --  pain in joint involving multiple sites
+	functional --  frailty syndrome
+	disability --  frailty syndrome
+	melanoma --  colorectal neoplasms
+	melanoma --  carcinoma colorectal
+	and --  colorectal neoplasms
+	and --  carcinoma colorectal
+Triples head:
+	 hfb1 - gdnf (C1708119) -->  human - origin (C0086418)
+	 arthropathy (C0022408) -->  pain in joint involving multiple sites (C0162296)
+	 frailty ( diagnosis ) (C0424594) -->  frailty syndrome (C4505081)
+	 malignant neoplasm of gi tract (C0685938) -->  colorectal neoplasms (C0009404)
+	 leukemias types (C0023418) -->  carcinoma colorectal (C0009402)
+Sentences tail:
+	 in blood and stool cultures from 90 black children with kwashiorkor , the commonest organisms isolated were gram - negative aerobic rods .
+	 furthermore , the elderly participants , relative to young adults , did not exhibit any slowing down in the speed of processing the information involved in making risk taking decisions , reflecting that healthy elderly people are cognitively apt to making risk taking decisions .
+	 results a total of 1 , 461 patients were enrolled ; the median ( interquartile range ) age was 64 years ( 40 . 9 - 72 . 0 ) ; 73 . 2 % of patients were male ; the median bmi was 28 . 1 kg / m2 ( 25 . 4 - 32 . 3 ) ; a total of 1 , 080 patients ( 73 . 9 % ) required imv ; and the 28 - day mortality estimate was 36 . 1 % ( 95 % ci : 33 . 0 - 39 . 5 ) .
+Edges tail:
+	children --  human - origin
+	kw --  malnutrition ; severe , nutritional edema with dyspigmentation of skin and hair
+	##ashi --  malnutrition ; severe , nutritional edema with dyspigmentation of skin and hair
+	##ork --  malnutrition ; severe , nutritional edema with dyspigmentation of skin and hair
+	##or --  malnutrition ; severe , nutritional edema with dyspigmentation of skin and hair
+	participants --  human - origin
+	people --  human - origin
+	patients --  human - origin
+	patients --  human - origin
+	patients --  human - origin
+Triples tail:
+	 human - origin (C0086418) -->  zbtb17 (C1704978)
+	 malnutrition ; severe , nutritional edema with dyspigmentation of skin and hair (C0022806) -->  syndrome ; polycarential (C1405322)
+	 human - origin (C0086418) -->  zscan17 (C1423940)
+	 human - origin (C0086418) -->  dna excision repair protein ercc - 3 (C1259556)
+	 sporotrichum beurmannii (C0038033) -->  sporothrix schenckii antibody : dilution factor ( titer ) : point in time : cerebral spinal fluid : quantitative (C0943548)
+Sentences head:
+	 results cytoplasmic caii expression was predominantly detected in the upper luminal part of the squamous epithelium and was significantly ( p < 0 . 01 ) increased in gerd .
+	 prkar1a gene was pcr amplified using genomic dna and analyzed for sequence variants which revealed the novel mutation resulting in substitution of amino acid cysteine instead of the naturally occurring valine in the peptide chain and a premature stop codon at position 18 ( v215cfsx18 ) .
+	 conclusions the prevalence of overweight / obesity in children was notable , and the relationship between ses and z - bmi was mediated by paternal obesity history and dietary intake .
+Edges head:
+	gerd --  infant gastrointestinal regurgitation
+	gerd --  gastro - oesophageal reflux
+	amino --  amino acids
+	acid --  amino acids
+	cysteine --  cysteine hydrochloride
+	valine --  valine - containing product
+	children --  human - origin
+	obesity --  obesity [ ambiguous ]
+	obesity --  thinness , nos
+	patients --  human - origin
+Triples head:
+	 disease ; oesophageal (C0014852) -->  gastro - oesophageal reflux (C0017168)
+	 ih - infectious hepatitis (C0019159) -->  infant gastrointestinal regurgitation (C3813607)
+	 bupropion hydrochloride 150 mg oral tablet [ bupropion hydrochloride extended release ] (C1329122) -->  cysteine hydrochloride (C0724565)
+	 valine & x7c ; vitreous fluid & x7c ; chemistry - non - challenge (C5184741) -->  valine - containing product (C0042285)
+	 racemethionine - containing product (C0025646) -->  amino acids (C0002520)
+Sentences tail:
+	 the recurrence rate of acute coronary syndrome ( acs ) in patients after first - time myocardial infarction ( mi ) is over ten times higher than in the general population .
+	 materials and methods a systematic search of the electronic databases like pubmed and web of science was done using keywords - " stereognosis , " " oral stereognosis , " " complete denture , " and " complete edentulism . "
+	 hba1c was also significantly reduced in both groups ( empagliflozin : - 2 . 1 % 1 . 1 % , p = 0 . 002 ; dapagliflozin :
+Edges tail:
+	acute --  acute coronary syndromes
+	coronary --  acute coronary syndromes
+	syndrome --  acute coronary syndromes
+	acs --  acute coronary syndromes
+	patients --  human - origin
+	myocardial --  infarcts , myocardial
+	myocardial --  myocardial infarction , protection against
+	infarction --  infarcts , myocardial
+	infarction --  myocardial infarction , protection against
+	mi --  infarcts , myocardial
+Triples tail:
+	 acute coronary syndromes (C0948089) -->  myocardial stunning (C0206146)
+	 human - origin (C0086418) -->  snf2la (C1705665)
+	 infarcts , myocardial (C0027051) -->  ischaemic heart disease (C0151744)
+	 natural teeth (C0026644) -->  sitting disability (C4760890)
+	 jardiance (C3848669) -->  empagliflozin 25 mg oral tablet [ jardiance ] (C3848127)
+Sentences head:
+	 each group received 300 microg clonidine according to the treatment group , plus placebo by the other routes .
+	 design setting and participants cross - sectional convenience sample from six public schools and one science fair in central europe .
+	 frailty score was also improved in patients who were converted to hemodialysis ( p = 0 . 048 ) and received renal transplantation ( p = 0 . 005 ) .
+Edges head:
+	clonidine --  clonidine monohydrobromide
+	participants --  human - origin
+	patients --  human - origin
+	iodide --  i -
+	microp --  visual impairments
+	##si --  visual impairments
+	##a --  visual impairments
+	right --  ischemic stroke
+	right --  posterior choroidal artery infarction
+	tempor --  ischemic stroke
+Triples head:
+	 clonidin (C0009014) -->  clonidine monohydrobromide (C0949270)
+	 nuclear receptor binding set domain protein 2 wt allele (C1710644) -->  human - origin (C0086418)
+	 rzrg (C3539732) -->  human - origin (C0086418)
+	 iodine monochloride ( substance ) (C0063753) -->  i - (C0021966)
+	 vasculitides (C0042384) -->  ischemic stroke (C0948008)
+Sentences tail:
+	 background an increasing number of traumatic injuries in low - and low - middle - income countries ( lics / lmics ) have coexisting injuries requiring soft - tissue coverage ( flaps ) .
+	 the failure by an isolate to produce germ tubes , particularly in tests without strictly controlled conditions , does not preclude the possibility that the organism is c . albicans .
+	 in the presence of corneal opacification associated with a cataract , the surgeon is left with two alternatives : a penetrating keratoplasty followed months later by extraction of the cataract or a combined procedure .
+Edges tail:
+	traumatic --  research related injuries
+	injuries --  research related injuries
+	c --  monilia albicans
+	. --  monilia albicans
+	albicans --  monilia albicans
+	corneal --  corneal opacity ( disorder )
+	opac --  corneal opacity ( disorder )
+	##ification --  corneal opacity ( disorder )
+	cataract --  lens opacities
+	cataract --  lens opacities
+Triples tail:
+	 research related injuries (C4046002) -->  injuries wounds (C0043251)
+	 monilia albicans (C0006837) -->  candida albicans / mumps inj test kit (C0975220)
+	 lens opacities (C1510497) -->  cataract nuclear (C0392557)
+	 corneal opacity ( disorder ) (C0010038) -->  corneal disorders ( & [ opacity ] or [ other ] ) (C0155097)
+	 perca fluviatilis (C1304603) -->  family percidae - perch (C0936081)
+Sentences head:
+	 the processability of a plain arp - adp physical mixture ( pm ) compared with a pm with 5 % soluplus ( sol ) was investigated .
+	 patient underwent an aorto - aortic straight graft conclusions in this case - report we show svi can not be considered a problem in the surgical treatment of symptomatic abdominal aortic aneurysms .
+	 while pharmacologic treatments have been the only therapeutic options for many years , more recently the research is turning to the direct removal of the underlying genetic cause of each specific ndd .
+Edges head:
+	sol --  soluplus
+	##up --  soluplus
+	##lu --  soluplus
+	##s --  soluplus
+	patient --  human - origin
+	sv --  svd
+	##i --  svd
+	nd --  norrie disease
+	##d --  norrie disease
+	women --  human - origin
+Triples head:
+	 polyvinyl caprolactam - polyvinyl acetate - polyethylene glycol graft copolymer (C3492184) -->  soluplus (C3492185)
+	 mir130a pre - mirna (C2826457) -->  human - origin (C0086418)
+	 snowflake retinal degeneration (C0339443) -->  svd (C1860405)
+	 mental retardation and muscular atrophy (C0795889) -->  norrie disease (C0266526)
+	 prostate cancer associated transcript 1 , human (C4320086) -->  human - origin (C0086418)
+Sentences tail:
+	 experimental evidence of a2a - d2 receptor - receptor interactions in the rat and human carotid body .
+	 methods hematological analyzer data were gathered from nicu patients up to 48 hours prior to clinical evaluation for bacterial sepsis .
+	 the present study aims to evaluate the prognostic role of alk - 1 and h - tert protein expression and their correlation with alk gene alterations in glioblastoma multiforme ( gbm ) .
+Edges tail:
+	rat --  rats
+	human --  human - origin
+	patients --  human - origin
+	bacterial --  bacterial infection of unspecified site
+	sepsis --  bacterial infection of unspecified site
+	glioblastoma --  glioblastoma
+	multif --  glioblastoma
+	##orm --  glioblastoma
+	##e --  glioblastoma
+	gbm --  glioblastoma
+Triples tail:
+	 rats (C0034693) -->  sprague dawley rat (C0034715)
+	 human - origin (C0086418) -->  nr2b1 (C1706615)
+	 human - origin (C0086418) -->  e1 (C1705962)
+	 bacterial infection of unspecified site (C0004623) -->  infection ; corynebacterium diphtheriae (C0012546)
+	 glioblastoma (C1621958) -->  oligoastrocytoma , nos (C0280793)
+Sentences head:
+	 in addition , lps induced several pathological alterations such as edema , alveolar hemorrhage and inflammatory cell infiltration into the interstitium and alveolar spaces .
+	 conclusions nearly one - third of hct recipients with pretransplant fqre colonization developed gram - negative bsi while receiving levofloxacin prophylaxis , and infections were typically caused by their colonizing strains .
+	 autophagy is closely associated with cerebral ischaemia / reperfusion injury , but the underlying mechanisms are unknown .
+Edges head:
+	edema --  extreme generalized edema
+	alveolar --  gingival bleeding
+	hemorrhage --  gingival bleeding
+	gram --  disease caused by gram - negative bacteria ( disorder )
+	- --  disease caused by gram - negative bacteria ( disorder )
+	negative --  disease caused by gram - negative bacteria ( disorder )
+	bsi --  disease caused by gram - negative bacteria ( disorder )
+	levo --  levofloxacin anhydrous
+	##floxacin --  levofloxacin anhydrous
+	cerebral --  reperfusion injury
+Triples head:
+	 hemorrhage of gingiva on left mandibular lateral incisor ( physical finding ) (C2011535) -->  gingival bleeding (C0017565)
+	 subject of record ( person ) (C1444713) -->  extreme generalized edema (C0151603)
+	 levofloxacin 500 mg oral tablet , film coated [ levaquin ] (C0714191) -->  levofloxacin anhydrous (C3661457)
+	 carbenicillin sodium (C0813202) -->  disease caused by gram - negative bacteria ( disorder ) (C0085423)
+	 body skin hyperlaxity due to vitamin k dependent coagulation factor deficiency (C4049241) -->  reperfusion injury (C0035126)
+Sentences tail:
+	 we conclude that there is an interaction between gluten sensitivity and glyr - abs - associated cns hyperexcitability and in such patients gluten - free diet is an important therapeutic intervention .
+	 headache frequency ( 24 vs . 17 days ; p = 0 . 005 ) and prevalence of regular analgesic use ( 60 % [ n = 22 ] vs . 18 % [ n = 5 ] ; p = 0 . 002 ) were significantly higher in adults .
+	 these findings suggest that some patients with as may be less clumsy than those with autistic disorder and that this difference may be the result of their higher level of intelligence .
+Edges tail:
+	cns --  minimal brain dysfunction
+	cns --  attention deficit / hyperactivity disorder
+	hypere --  minimal brain dysfunction
+	##xc --  minimal brain dysfunction
+	##itability --  minimal brain dysfunction
+	hypere --  attention deficit / hyperactivity disorder
+	##xc --  attention deficit / hyperactivity disorder
+	##itability --  attention deficit / hyperactivity disorder
+	patients --  human - origin
+	headache --  unilateral headache ( situation )
+Triples tail:
+	 human - origin (C0086418) -->  engrailed homeobox 2 wt allele (C3272489)
+	 attention deficit / hyperactivity disorder (C1263846) -->  personality disorder , nos (C0031212)
+	 minimal brain dysfunction (C1321905) -->  foetal disorder nos (C0015929)
+	 unilateral headache ( situation ) (C0877781) -->  cephalodynias (C0018681)
+	 puppet children (C0162635) -->  laurence - moon syndrome (C0023138)
+Sentences head:
+	 3 - hydroxypyruvate substitutes for pyridoxine in serc mutants of escherichia coli k - 12 .
+	 here , trans - rsv was encapsulated in food grade nanovesicles formed by tween 80 and span 80 , with or without the addition of dodecanol ( dod ) as membrane stabilizer .
+	 patients with previous reactions to drugs may be more likely to have atr .
+Edges head:
+	pyrid --  rodex
+	##oxin --  rodex
+	##e --  rodex
+	tween --  tween
+	80 --  tween
+	span --  span 80
+	80 --  span 80
+	dod --  alcohol , dodecyl
+	##ecan --  alcohol , dodecyl
+	##ol --  alcohol , dodecyl
+Triples head:
+	 pyridoxine hydrochloride preparation ( product ) (C0700496) -->  rodex (C0936275)
+	 homosalate 150 mg in 1 ml / octocrylene 100 mg in 1 ml / octisalate 50 mg in 1 ml / avobenz (C4550717) -->  alcohol , dodecyl (C0023142)
+	 bulk compounding chemicals (C0740041) -->  span 80 (C0950383)
+	 polysorbate (C0032602) -->  tween (C0041420)
+	 adgrb3 wt allele (C1706873) -->  human - origin (C0086418)
+Sentences tail:
+	 conclusions ovarian reserve function was not significantly affected in patients with up to 4 ovarian stimulation cycles .
+	 group i received a suboptimal dose of ferastral iron corresponding to 90 % of the iron calculated to normalize the haemoglobin value .
+	 eight isolates ( a . fumigatus , n = 6 and a . terreus , n = 2 ) had high mic for at least one azole drug .
+Edges tail:
+	patients --  human - origin
+	fer --  iron - poly ( sorbitol - gluconic acid ) complex
+	##astr --  iron - poly ( sorbitol - gluconic acid ) complex
+	##al --  iron - poly ( sorbitol - gluconic acid ) complex
+	iron --  iron ( substance )
+	iron --  iron ( substance )
+	a --  aphanoascus terreus
+	. --  aphanoascus terreus
+	terr --  aphanoascus terreus
+	##eu --  aphanoascus terreus
+Triples tail:
+	 human - origin (C0086418) -->  kryn (C3273758)
+	 iron - poly ( sorbitol - gluconic acid ) complex (C0123974) -->  compounds , organometallic (C0029252)
+	 iron ( substance ) (C0302583) -->  bacillus anthracis immunoserum rabbit 30 [ hp _ x ] in 1 g / influenza a virus 30 [ hp _ x ] in 1 g / ran (C5207374)
+	 aphanoascus terreus (C1188680) -->  keratinophyton (C4598976)
+	 escherichia coli (C0014834) -->  e coli o157h7 ag stl ql (C1315248)
+Sentences head:
+	 the diagnosis is dentigerous cysts .
+	 initiation of reca + - dependent recombination in escherichia coli ( lambda ) .
+	 tetracycline , streptomycin and monomycin resistant variants of the cholera and nag - vibrios were obtained by means of repeated passages on nutrient media with increasing concentrations of the antibiotics ( 114 variants v . cholerae asiaticae , 1337 variants of v . cholerae eltor and 299 variants of nag - vibrios of the 1st heiberg group ) .
+Edges head:
+	denti --  dentigerous cyst of jaw ( diagnosis )
+	##ger --  dentigerous cyst of jaw ( diagnosis )
+	##ous --  dentigerous cyst of jaw ( diagnosis )
+	cysts --  dentigerous cyst of jaw ( diagnosis )
+	escherichia --  escherichia coli
+	coli --  escherichia coli
+	tetracycline --  achromycin
+	streptomycin --  streptomycin grunenthal
+	mono --  monomycin
+	##my --  monomycin
+Triples head:
+	 pharmacologic therapy (C0013217) -->  dentigerous cyst of jaw ( diagnosis ) (C0011428)
+	 escherichia coli fimf41a gene (C4532644) -->  escherichia coli (C0014834)
+	 erythromycin es (C0014810) -->  monomycin (C0700674)
+	 immunological sensitization (C0020971) -->  asiatic cholera (C0008354)
+	 bioterrorism / chemical warfare (C0920353) -->  vibrio cholerae - asiaticae (C0042629)
+Sentences tail:
+	 because the relative affinities of intracellular complexes resemble those of receptors in the closed activable state , the results suggest that epibatidine binds with unique site selectivity in activating the muscle receptor .
+	 we characterized the l - carnitine transport system which is defective in the kidney of juvenile visceral steatosis ( jvs ) mice by using kidney slices and carnitine - related compounds , and evaluated the influence of the transport defect on the biosynthetic pathway of carnitine .
+	 in this study , we focused on the infiltration and programmed death ligand 1 ( pd - l1 ) expression of tumor - associated macrophages ( tams ) in the tumor microenvironment of hcc .
+Edges tail:
+	epib --  7 - azabicyclo ( 2 . 2 . 1 ) heptane , 2 - ( 6 - chloro - 3 - pyridinyl ) -
+	##atid --  7 - azabicyclo ( 2 . 2 . 1 ) heptane , 2 - ( 6 - chloro - 3 - pyridinyl ) -
+	##ine --  7 - azabicyclo ( 2 . 2 . 1 ) heptane , 2 - ( 6 - chloro - 3 - pyridinyl ) -
+	l --  product containing l - carnitine
+	- --  product containing l - carnitine
+	carnitine --  product containing l - carnitine
+	juvenile --  hepatic steatosis
+	visceral --  hepatic steatosis
+	steatosis --  hepatic steatosis
+	j --  pili torti - sensorineural hearing loss
+Triples tail:
+	 7 - azabicyclo ( 2 . 2 . 1 ) heptane , 2 - ( 6 - chloro - 3 - pyridinyl ) - (C0219269) -->  heterocyclic compounds , bicyclic (C0282650)
+	 mice (C1331371) -->  mus musculus ( organism ) (C0025914)
+	 hepatic steatosis (C2711227) -->  hypolipoproteinaemia ( disorder ) (C0020623)
+	 product containing l - carnitine (C0087163) -->  american ginseng 6 [ hp _ x ] in 60 ml / fucus vesiculosus 6 [ hp _ x ] in 60 ml / calcium arsenate (C3817622)
+	 pili torti - sensorineural hearing loss (C0266006) -->  bcs1l , tyr301asn (C3807267)
+Sentences head:
+	 her2 overexpression and mutation is the pathogenic driver in non - small cell lung cancer ( nsclc ) and colorectal cancer , however , to date , there are no approved her2 - targeted therapies with these indications .
+	 methods children , 3 - 5years old , in the jiading district , shanghai , were followed for one year .
+	 research progress on the serpine1 protein and chronic inflammatory diseases of the upper respiratory tract : a literature review .
+Edges head:
+	non --  non - small cell cancer of lung
+	- --  non - small cell cancer of lung
+	small --  non - small cell cancer of lung
+	cell --  non - small cell cancer of lung
+	lung --  non - small cell cancer of lung
+	cancer --  non - small cell cancer of lung
+	nsclc --  non - small cell cancer of lung
+	colorectal --  colorectal neoplasms
+	colorectal --  carcinoma colorectal
+	cancer --  colorectal neoplasms
+Triples head:
+	 anal disorder , nos (C0003462) -->  colorectal neoplasms (C0009404)
+	 disorders of porphyrin metabolism (C0032708) -->  carcinoma colorectal (C0009402)
+	 carboplatin / albumin - bound paclitaxel (C4526550) -->  non - small cell cancer of lung (C0007131)
+	 hla class i histocompatibility antigen , a - 11 alpha chain (C3178875) -->  human - origin (C0086418)
+	 rhinocerebral mucormycosis (C0348802) -->  upper respiratory tract infection (C0041912)
+Sentences tail:
+	 this study aimed to perform a complete reconstructive outcome analysis of patients receiving nact who underwent immediate breast reconstruction .
+	 we improved the thermal stability of 3 - isopropylmalate dehydrogenase from bacillus subtilis by an in vivo evolutionary technique using an extreme thermophile , thermus thermophilus , as a host cell .
+	 t - masking has been introduced in a convolutional neural network ( cnn ) for the test bench of binary classification of very - mild alzheimer ' s disease vs . normal control , using a structural magnetic resonance imaging dataset of 180 subjects .
+Edges tail:
+	patients --  human - origin
+	bacillus --  bacillus subtilis
+	subtilis --  bacillus subtilis
+	therm --  thermus aquaticus thermophilus
+	##us --  thermus aquaticus thermophilus
+	thermo --  thermus aquaticus thermophilus
+	##phi --  thermus aquaticus thermophilus
+	##lu --  thermus aquaticus thermophilus
+	##s --  thermus aquaticus thermophilus
+	alzheimer --  alzheimer disease , protection against
+Triples tail:
+	 human - origin (C0086418) -->  absent in melanoma 1 protein (C1366838)
+	 thermus aquaticus thermophilus (C0085475) -->  en (C0014445)
+	 bacillus subtilis (C0004595) -->  bacillus globigii (C5203513)
+	 early onset alzheimer dis (C0750901) -->  alzheimer disease early onset type 3 (C1843013)
+	 sacubitril + valsartan (C4033631) -->  sacubitril / valsartan @ 97 mg - 103 mg @ oral @ tablet (C4032802)
+Sentences head:
+	 the most atypical vldl particle was found in patients who combined an accumulation of vldl particles and a reduction in hdl - cholesterol concentration .
+	 there was no obvious relationship between the degree of incontinence and use of turp vs . tuip , amount of tissue resected , or time between brachytherapy and turp / tuip .
+	 out of 769 cattle ' s and buffaloes ' faecal samples submitted , fasciola spp ova were detected in 189 of the samples .
+Edges head:
+	patients --  human - origin
+	incontinence --  [ d ] incontinence of urine ( context - dependent category )
+	cattle --  bos taurus taurus ( organism )
+	patient --  human - origin
+	graves --  graves disease , susceptibility to , 1
+	graves --  disease ; basedows
+	' --  graves disease , susceptibility to , 1
+	' --  disease ; basedows
+	disease --  graves disease , susceptibility to , 1
+	disease --  disease ; basedows
+Triples head:
+	 hla - dpw4 antigen ( substance ) (C0062863) -->  human - origin (C0086418)
+	 postural ( urinary ) incontinence (C0403669) -->  [ d ] incontinence of urine ( context - dependent category ) (C0042024)
+	 murray grey cattle (C1297624) -->  bos taurus taurus ( organism ) (C1140701)
+	 mir133b pre - mirna (C2826462) -->  human - origin (C0086418)
+	 thyrotoxicosis (C0040156) -->  graves disease , susceptibility to , 1 (C1848795)
+Sentences tail:
+	 these results document a greater susceptibility to extraneous visual distraction among patients with tbi in comparison to controls .
+	 the age - related differences protecting children from severe disease and death remain incompletely understood .
+	 methods sixty children with asd were randomly assigned to the intervention group ( n = 30 ) or the control group ( n = 30 ) .
+Edges tail:
+	patients --  human - origin
+	tbi --  brain ; injury , focal
+	children --  human - origin
+	children --  human - origin
+	asd --  secundum atrial sept def
+	escherichia --  escherichia coli
+	coli --  escherichia coli
+	nucleotide --  nucleotides
+	go --  gerodermia osteodysplastica
+	patients --  human - origin
+Triples tail:
+	 brain ; injury , focal (C0452047) -->  focal non - hemorrhagic contusion of cerebellum (C4302395)
+	 human - origin (C0086418) -->  histone - lysine n - methyltransferase 2c (C1122016)
+	 human - origin (C0086418) -->  mgc4809 (C1704856)
+	 human - origin (C0086418) -->  atf3 (C1412616)
+	 secundum atrial sept def (C0344724) -->  defect ; interventricular septal (C0018818)
+Sentences head:
+	 the level of awareness of pregnant women about ccmv was low to moderate .
+	 design data from the 3 - and 12 - month examinations conducted at 23 regional study centers were tabulated for all infants .
+	 cis - diamminedichloroplatinum ( ii ) ( cis - ddp ) is known as an effective anticancer drug .
+Edges head:
+	women --  human - origin
+	ccm --  familial cavernous malformations
+	##v --  familial cavernous malformations
+	infants --  human - origin
+	cis --  nsc - 119875
+	- --  nsc - 119875
+	diam --  nsc - 119875
+	##mine --  nsc - 119875
+	##di --  nsc - 119875
+	##chlor --  nsc - 119875
+Triples head:
+	 retinal arteriovenous anomaly (C0521570) -->  familial cavernous malformations (C2919945)
+	 hmafa (C1427946) -->  human - origin (C0086418)
+	 protein tyrosine kinase 6 (C1335274) -->  human - origin (C0086418)
+	 vascular leiomyoma (C0206653) -->  tumour , benign (C0086692)
+	 cis - platinum ii diamine dichloride (C0008838) -->  nsc - 119875 (C0936226)
+Sentences tail:
+	 furthermore , their sleep efficiency was higher , indicating that the patients had more sleep within the time they spent in bed .
+	 genetic and developmental characterization of dmca1d , a calcium channel alpha1 subunit gene in drosophila melanogaster .
+	 special care was dedicated to type of otitis , surgical findings , diagnostic methods , mode of therapy and therapy outcome .
+Edges tail:
+	patients --  human - origin
+	calcium --  product containing calcium ( medicinal product )
+	drosophila --  drosophila melanogaster
+	melanogaster --  drosophila melanogaster
+	otitis --  ear infection nos
+	cisplatin --  nsc - 119875
+	nasopharyngeal --  carcinoma of the nasopharynx
+	carcinoma --  carcinoma of the nasopharynx
+	sepsis --  sepsis , severe
+	patients --  human - origin
+Triples tail:
+	 human - origin (C0086418) -->  dxs239 (C2699549)
+	 product containing calcium ( medicinal product ) (C0006675) -->  nutrition supl carnation instant / van pwd (C0975287)
+	 drosophila melanogaster (C0013139) -->  cytol (C0010820)
+	 ear infection nos (C0699744) -->  care , child (C0008067)
+	 nsc - 119875 (C0936226) -->  cis - platinum ii diamine dichloride (C0008838)
+Sentences head:
+	 methods / results a case of urothelial bladder neoplasm presenting with perforation and scrotal abscess is described .
+	 influence of arginine , omega - 3 fatty acids and nucleotide - supplemented enteral support on systemic inflammatory response syndrome and multiple organ failure in patients after severe trauma .
+	 the structure of the 5 - [ ( prop - 2 - en - 1 - yl ) sulfanyl ] - 1 , 3 , 4 - thiadiazol - 2 - am ( pesta , c5h7n3s2 ) ligand is also presented .
+Edges head:
+	urothelial --  tumor , bladder
+	urothelial --  cancer of the bladder
+	bladder --  tumor , bladder
+	bladder --  cancer of the bladder
+	neoplasm --  tumor , bladder
+	neoplasm --  cancer of the bladder
+	scr --  testicular hydrocele
+	##otal --  testicular hydrocele
+	abscess --  testicular hydrocele
+	arginine --  hydrochloride , arginine
+Triples head:
+	 malignant tumour of uterus (C0153567) -->  cancer of the bladder (C0005684)
+	 bladder urachal cancer (C2931202) -->  tumor , bladder (C0005695)
+	 hydrocele and spermatocele (C0495076) -->  testicular hydrocele (C1720771)
+	 alpha amino acid ( substance ) (C0311462) -->  hydrochloride , arginine (C0301556)
+	 tgfbr2 wt allele (C1705614) -->  human - origin (C0086418)
+Sentences tail:
+	 exacerbations of copd are of major importance in the acceleration of disease progression , in healthcare costs , and negatively affect the patient ' s quality of life .
+	 nilothauma longissimum mendes & andersen , 2009 is transferred to beardius reiss & sublette , 1985 and the diagnosis of nilothauma is emended .
+	 during temporary drug discontinuation , some patients experienced aggravation of the primary disease , such as worsening of rheumatism , growth of tumors , and rejection reactions of transplanted organs .
+Edges tail:
+	copd --  chronic airflow obstructions
+	copd --  pulmonary disease , chronic obstructive , rate of decline of lung function in
+	patient --  human - origin
+	nil --  mcns - minimal change nephrotic syndrome
+	##oth --  mcns - minimal change nephrotic syndrome
+	##au --  mcns - minimal change nephrotic syndrome
+	##ma --  mcns - minimal change nephrotic syndrome
+	nil --  mcns - minimal change nephrotic syndrome
+	##oth --  mcns - minimal change nephrotic syndrome
+	##au --  mcns - minimal change nephrotic syndrome
+Triples tail:
+	 human - origin (C0086418) -->  cell cycle gene 1 (C1336564)
+	 mcns - minimal change nephrotic syndrome (C1704321) -->  nephrotic syndrome nos (C0027730)
+	 tumour , benign (C0086692) -->  benign neoplasm of blood vessel of thorax (C0685179)
+	 human - origin (C0086418) -->  mirna372 (C1537893)
+	 rheumatism ( diagnosis ) (C0035435) -->  rheumatic heart disease , other and unspecified (C0029730)
+Sentences head:
+	 otsuka long - evans tokushima fatty ( oletf ) rats develop obesity , hyperglycemia , and non - insulin - dependent diabetes mellitus and do not express cholecystokinin a ( cck - a ) receptors , the receptor subtype mediating the satiety actions of cck .
+	 these findings may aid clinicians in timely rm diagnosis and treatment , thus improving its outcomes .
+	 a history of venereology in vienna from the first manifestations of the french disease in 1498 until the first half of the twentieth century is described .
+Edges head:
+	rats --  rats
+	obesity --  obesity [ ambiguous ]
+	obesity --  thinness , nos
+	hyperglycemia --  postprandial hyperglycemias
+	non --  diabetes mellitus , type 2 , protection against
+	- --  diabetes mellitus , type 2 , protection against
+	insulin --  diabetes mellitus , type 2 , protection against
+	- --  diabetes mellitus , type 2 , protection against
+	dependent --  diabetes mellitus , type 2 , protection against
+	non --  non - insulin dependent diabetes mellitus
+Triples head:
+	 metabolism disorder , lipid (C0154251) -->  obesity [ ambiguous ] (C0028754)
+	 mtdps4b (C3150914) -->  thinness , nos (C0039870)
+	 hyperglycaemia nos (C0020456) -->  postprandial hyperglycemias (C1855520)
+	 respiratory syncytial virus infection , nos (C0035235) -->  non - insulin dependent diabetes mellitus (C0011860)
+	 buf (C0324533) -->  rats (C0034693)
+Sentences tail:
+	 prevalence and patterns of traumatic bone loss following open long bone fractures at mulago hospital .
+	 we have prepared a single - chain fv fragment ( scfv ) derived from y13 - 259 , and here , we show that intracellular expression of the scfv led to the specific inhibition of the ras signaling pathway in xenopus laevis oocytes and nih3t3 fibroblasts .
+	 eligible children were between 18 and 60 months , met the cutoff for asd on the autism diagnostic observation schedule - 2nd edition and demonstrate significant social imitation deficits .
+Edges tail:
+	traumatic --  bone mineral density quantitative trait locus
+	traumatic --  osteoporosis ; post - traumatic
+	bone --  bone mineral density quantitative trait locus
+	bone --  osteoporosis ; post - traumatic
+	loss --  bone mineral density quantitative trait locus
+	loss --  osteoporosis ; post - traumatic
+	open --  compound fractures
+	long --  compound fractures
+	bone --  compound fractures
+	fractures --  compound fractures
+Triples tail:
+	 osteoporosis ; post - traumatic (C0751406) -->  hyperostoses (C0020492)
+	 compound fractures (C0016662) -->  open fracture of five ribs (C0159632)
+	 clawed frog (C0043343) -->  urine (C0042037)
+	 autistic disorder (C0004352) -->  developmental disorder ; pervasive (C0524528)
+	 human - origin (C0086418) -->  microrna 151 gene (C1537709)
+Sentences head:
+	 lignocaine was administered as an aerosol in the upper respiratory tract and as a solution in the bronchial tree .
+	 loxapine versus haloperidol parenterally in acute psychosis with agitation .
+	 [ restoration processes in the cells of the pancreatic island apparatus in alloxan diabetic rats under the influence of rna ] .
+Edges head:
+	lign --  octocaine
+	##ocaine --  octocaine
+	lox --  loxapine monohydrochloride
+	##apine --  loxapine monohydrochloride
+	haloperidol --  haldol
+	acute --  substance - induced psychoses
+	psychosis --  substance - induced psychoses
+	allo --  diabete , streptozocin
+	##xa --  diabete , streptozocin
+	##n --  diabete , streptozocin
+Triples head:
+	 lidocaina (C0023660) -->  octocaine (C0949345)
+	 haloperidol 2 mg oral tablet [ haldol ] (C0706892) -->  haldol (C0591585)
+	 2 - chloro - 11 - ( 4 - methyl - 1 - piperazinyl ) - dibenz ( b , f ) ( 1 , 4 ) (C0024056) -->  loxapine monohydrochloride (C0887162)
+	 physical & psychosomatic disorders ( psycinfo subcluster term ) (C0935495) -->  substance - induced psychoses (C0033941)
+	 haverhill fever ( diagnosis ) (C0152063) -->  rats (C0034693)
+Sentences tail:
+	 a second - degree burn was formed on the back of each rat and dressed daily with one of the agents .
+	 the results showed that nprb3 directly participates in the remodeling of myocardial energy metabolism and the regulation of perixisome proliferation - activated receptor alpha ( ppar ) , thereby improving the degree of myocardial fibrosis .
+	 [ the studies on lh - rh test with respect to abnormal electroencephalographic finding in anovulatory women ( author ' s transl ) ] .
+Edges tail:
+	rat --  rats
+	myocardial --  myocardiopathies
+	fibrosis --  myocardiopathies
+	ano --  anovulation
+	##v --  anovulation
+	##ulatory --  anovulation
+	women --  human - origin
+	hc --  hereditary coproporphyria ( disorder )
+	hippocampal --  peroxisome biogenesis disorder 1a
+	hippocampal --  zellweger syndrome spectrum
+Triples tail:
+	 rats (C0034693) -->  cdisc send terminology (C2698638)
+	 myocardiopathies (C0878544) -->  feline restrictive cardiomyopathy ( disorder ) (C0685100)
+	 human - origin (C0086418) -->  hist1h2bd (C3890928)
+	 anovulation (C0003128) -->  luteinisation (C0334024)
+	 hereditary coproporphyria ( disorder ) (C0162531) -->  elevated blood pressure (C0020538)
+Sentences head:
+	 the implications of these findings and the morphologic features which are helpful in the identification of these lymphomas are discussed .
+	 methods matrix tablets have been prepared using kcl ( 7 different particle size fractions ) as a drug model and eudragit rs - pm ( 4 granulommetric fractions ) as matrix forming material .
+	 nevertheless , a few persisting viable m leprae were detected as long as five years after the start of treatment with rifampicin either by itself or in combination with the bacteriostatic drug thiambutosine .
+Edges head:
+	lymphomas --  lymphomas malignant
+	eu --  eudragit
+	##dr --  eudragit
+	##agi --  eudragit
+	##t --  eudragit
+	thi --  su - 1906
+	##amb --  su - 1906
+	##ut --  su - 1906
+	##osine --  su - 1906
+	breast --  familial breast cancer , male ( diagnosis )
+Triples head:
+	 malignant lymphoma of pleura ( diagnosis ) (C2211078) -->  lymphomas malignant (C0024299)
+	 methylmethacrylate - methacrylic acid copolymer (C0220382) -->  eudragit (C0961486)
+	 ciba - 1906 (C0109752) -->  su - 1906 (C0143799)
+	 benign neoplasm of soft tissues of axilla ( disorder ) (C0684717) -->  tumour , benign (C0086692)
+	 mir107 wt allele (C2825927) -->  human - origin (C0086418)
+Sentences tail:
+	 as novel therapy strategies are leveraged , the significance of immunotherapy in recurrent / metastatic head and neck cancer continues to be revealed .
+	 forty - eight adults with a history of tetanus vaccination were randomized into four groups ( n = 12 per group ) to receive one of two different batches of this p - htig simultaneously with either tetanus - diphtheria ( td ) vaccine ( sham , postexposure prophylaxis of tetanus ) or placebo .
+	 of the 13 patients , three had elevated troponin i and evidence of severe coronary artery disease ( cad ) ( cases 4 , 5 , and 11 ) , while six had elevated troponin i without evidence of severe cad ( cases 1 , 3 , 6 , 7 , 8 , and 9 ) , and four had no clinical or pathological evidence of cad .
+Edges tail:
+	recurrent --  metastasize
+	/ --  metastasize
+	metastatic --  metastasize
+	head --  upper aerodigestive tract neoplasm
+	and --  upper aerodigestive tract neoplasm
+	neck --  upper aerodigestive tract neoplasm
+	cancer --  upper aerodigestive tract neoplasm
+	tetanus --  tetanus
+	tetanus --  infection due to corynebacterium
+	- --  infection due to corynebacterium
+Triples tail:
+	 upper aerodigestive tract neoplasm (C0887900) -->  neoplasm of the tongue (C0040411)
+	 metastasize (C0027627) -->  metastatic malignant neoplasm to temporal lobe (C0686386)
+	 infection due to corynebacterium (C0010153) -->  infections , erysipelothrix (C0014736)
+	 tetanus (C0039614) -->  phthirus pubis (C0030759)
+	 human - origin (C0086418) -->  nfkb3 (C1704704)
+Sentences head:
+	 we have used differential cdna display to search for genes whose expression correlates with an aggressive phenotype in variants of the b16 murine melanoma line , b16 - f1 and b16 - f10 .
+	 retroviral sequence located in border region of short unique region and short terminal repeat of md5 strain of marek ' s disease virus type 1 .
+	 he denied any medical illness and was not taking any medications .
+Edges head:
+	murine --  mus musculus ( organism )
+	mar --  marek disease
+	##ek --  marek disease
+	' --  marek disease
+	s --  marek disease
+	disease --  marek disease
+	virus --  marek disease
+	medical --  disease or syndrome present , nos
+	illness --  disease or syndrome present , nos
+	ehr --  ehrlich tumor carcinoma
+Triples head:
+	 african swamp mouse ( organism ) (C0324946) -->  mus musculus ( organism ) (C0025914)
+	 waldenstrom macroglobulinemia (C0024419) -->  marek disease (C0024793)
+	 open wounds & / or trauma late effect (C0565627) -->  disease or syndrome present , nos (C0012634)
+	 laboratory mouse (C0025929) -->  mice (C1331371)
+	 cyld , glu747gly (C2676639) -->  brooke - spiegler syndrome (C1857941)
+Sentences tail:
+	 new antiarrhythmic agents : amiodarone , aprindine , disopyramide , ethmozin , mexiletine , tocainide , verapamil .
+	 high cdc20 expression predicted a poor prognosis and might be an independent risk factor in hcc ( p < 0 . 05 ) .
+	 implementation of virtual and face - to - face childbirth preparation training for the spouses of the primiparous women to reduce the fear of childbirth , improve the pregnancy experience , and enhance mother - and father - infant attachment : protocol for a quasiexperimental clinical trial .
+Edges tail:
+	ami --  tachydaron
+	##oda --  tachydaron
+	##ron --  tachydaron
+	##e --  tachydaron
+	apr --  fiboran
+	##ind --  fiboran
+	##ine --  fiboran
+	eth --  en313
+	##mo --  en313
+	##zi --  en313
+Triples tail:
+	 en313 (C0729179) -->  moricizine ( substance ) (C0079856)
+	 fiboran (C1448443) -->  aprindine (C0003639)
+	 xylotocan (C1955834) -->  2 - amino - n - ( 2 , 6 - dimethylphenyl ) propionamid (C0085237)
+	 lekoptin (C2930751) -->  verapamil ( substance ) (C0042523)
+	 novo mexiletine (C1563865) -->  mexiletine ( substance ) (C0025887)
+Sentences head:
+	 a 25 - year - old woman and a 26 - year - old man with acute myeloid leukemia were referred to our department with symptoms of ocular discomfort , photophobia , and blurred vision after consolidation chemotherapy .
+	 because binding and phagocytosis of bacteria by macrophages through the cr3 has been previously reported , we investigated whether the cr3 acts in cd14 - independent signaling pathway for no production .
+	 we conclude that fibrates have no effect on apolipoprotein ( a ) synthesis in monkey and human hepatocytes and that these drugs induce apo a - i synthesis .
+Edges head:
+	woman --  human - origin
+	man --  human - origin
+	acute --  acute myeloblastic leukemia with maturation
+	acute --  leukemia , acute myeloid , susceptibility to
+	myeloid --  acute myeloblastic leukemia with maturation
+	myeloid --  leukemia , acute myeloid , susceptibility to
+	leukemia --  acute myeloblastic leukemia with maturation
+	leukemia --  leukemia , acute myeloid , susceptibility to
+	ocular --  eye ; pain
+	discomfort --  eye ; pain
+Triples head:
+	 amaurosis (C0376288) -->  visual impairments (C3665347)
+	 jak - binding protein (C1426208) -->  human - origin (C0086418)
+	 myelocytic leukemia (C0023470) -->  acute myeloblastic leukemia with maturation (C1879321)
+	 mucoepithelial dysplasia , hereditary (C1274795) -->  sensitivities , light (C0085636)
+	 rehabilitation (C0034992) -->  eye ; pain (C0151827)
+Sentences tail:
+	 we have used recently developed hybridization and restriction endonuclease mapping techniques to demonstrate directly the presence of the transforming dna in the yeast genome and also to determine the arrangement of the sequences that were introduced .
+	 consideration of vector - borne and zoonotic diseases during differential diagnosis .
+	 to examine the oncogenic potential of the hcv core gene product , primary rat embryo fibroblasts ( refs ) were transfected with the core gene in the presence or absence of the h - ras oncogene .
+Edges tail:
+	yeast --  brewers yeast
+	vector --  vector - transmitted infectious disease
+	- --  vector - transmitted infectious disease
+	borne --  vector - transmitted infectious disease
+	vector --  infections zoonotic
+	- --  infections zoonotic
+	borne --  infections zoonotic
+	and --  vector - transmitted infectious disease
+	and --  infections zoonotic
+	zoonotic --  vector - transmitted infectious disease
+Triples tail:
+	 brewers yeast (C0036025) -->  saccharomyces cerevisiae antibody . immunoglobulin g : mass concentration : point in time : serum : quantitative (C1507698)
+	 infections zoonotic (C0043528) -->  trichuris trichiuria infection (C0040954)
+	 vector - transmitted infectious disease (C1640363) -->  infection abdominal (C1112209)
+	 rats (C0034693) -->  laboratory rats (C0086893)
+	 nosocomial infection (C0205721) -->  ear infection nos (C0699744)
+Sentences head:
+	 prevention and nursing research of picc catheter - related complications in patients with digestive system malignant tumor based on smart medical block chain .
+	 the differential diagnosis from other conditions with a periodic symptomatology is discussed , especially from a number of metabolic disorders .
+	 since an unexpectedly low percentage of chimpanzees were persistently infected with hcv , a longitudinal analysis of the virological profile of a small panel of hcv - infected chimpanzees was performed to determine the kinetics of viral clearance and loss of antibody .
+Edges head:
+	patients --  human - origin
+	digestive --  cancer digestive system
+	system --  cancer digestive system
+	malignant --  cancer digestive system
+	tumor --  cancer digestive system
+	metabolic --  metabolism disorders
+	disorders --  metabolism disorders
+	chimpanzees --  chimpanzee
+	chimpanzees --  chimpanzee
+	t --  leukemia , t - cell , acute
+Triples head:
+	 malignant neoplasm of ill - defined sites within the digestive system (C0348342) -->  cancer digestive system (C0751075)
+	 solute carrier family 22 ( organic cation transporter ) , member 2 (C1420137) -->  human - origin (C0086418)
+	 nutritional supplement toxicity (C2213360) -->  metabolism disorders (C0025517)
+	 taxonomic (C0008903) -->  chimpanzee (C0008111)
+	 lymphoid ; granulomatosis (C0024307) -->  malignant lymphoma , undifferentiated , burkitt ' s type (C0006413)
+Sentences tail:
+	 cyaa codes for a protein of 424 amino acid residues ( ac1 ) , while cyab encodes a protein of 352 residues ( ac2 ) .
+	 asenapine , blonanserin , blonanserin - patch , haloperidol , lurasidone , mosapramine , olanzapine , paliperidone , and risperidone outperformed placebo to improve panss positive subscale scores .
+	 the third case , a 61 - year - old woman , had a thymoma with direct invasion to right upper lobe .
+Edges tail:
+	amino --  amino acids
+	acid --  amino acids
+	ase --  asenapine maleate
+	##na --  asenapine maleate
+	##pine --  asenapine maleate
+	blo --  ad 5423
+	##nan --  ad 5423
+	##ser --  ad 5423
+	##in --  ad 5423
+	haloperidol --  haldol
+Triples tail:
+	 amino acids (C0002520) -->  phenylalanine / amino acids . total in unspecified specimen (C1952967)
+	 risperdal consta ( product ) (C1320098) -->  product containing risperidone in parenteral dose form ( medicinal product form ) (C3219730)
+	 3 - chloro - 5 - ( 3 - ( 2 - oxo - 1 , 2 , 3 , 5 , 6 , 7 , 8 , 8a - (C0208216) -->  y 516 (C0078665)
+	 zolafren (C4551618) -->  olanzapin (C0171023)
+	 invega sustenna (C2722404) -->  paliperidone palmitate ( medication ) (C2719626)
+Sentences head:
+	 here we investigate whether protein aggregation could allow the oxidation of asch - by uva - induced reactive oxygen species in the presence of physiological levels of gsh .
+	 ultimately , the ability to harness the gvl potential of allogeneic donor cells without excessive toxicity from graft - versus - host disease will be a central challenge in bmt and cellular immunotherapy .
+	 further studies are necessary to increase the understanding of the neurological substrates of human sexuality .
+Edges head:
+	oxygen --  dioxygen
+	gsh --  reduced glutathione
+	graft --  homologous wasting disease
+	- --  homologous wasting disease
+	versus --  homologous wasting disease
+	- --  homologous wasting disease
+	host --  homologous wasting disease
+	disease --  homologous wasting disease
+	human --  human - origin
+	ptsd --  moral injury
+Triples head:
+	 product containing oxygen ( medicinal product ) (C0030054) -->  dioxygen (C0058347)
+	 glutathione . reduced ( rbc ) [ mass / vol ] (C0364522) -->  reduced glutathione (C0034917)
+	 immune - mediated renal disorder (C5244069) -->  homologous wasting disease (C0018133)
+	 hoxa10 (C1705270) -->  human - origin (C0086418)
+	 colchicum autumnale poisoning (C0275226) -->  poisoning (C0032343)
+Sentences tail:
+	 malignancy in children with and without genetically - determined immunodeficiencies .
+	 human leucocyte interferon has been shown to prevent rhinovirus infection if given intranasally to human volunteers .
+	 accordingly , only the highest concentration of daptomycin reduced the bacterial survival and increased the ros formation in the resistant biofilm .
+Edges tail:
+	malignancy --  tumour , benign
+	children --  human - origin
+	immunodef --  decreased immune function
+	##iciencies --  decreased immune function
+	human --  human - origin
+	rhin --  disease due to respirovirus ( disorder )
+	##ovirus --  disease due to respirovirus ( disorder )
+	human --  human - origin
+	dapt --  cubicin
+	##omycin --  cubicin
+Triples tail:
+	 tumour , benign (C0086692) -->  adenoma of sweat gland (C0019522)
+	 human - origin (C0086418) -->  g - protein coupled receptor class c group 5 member d (C3529805)
+	 decreased immune function (C0021051) -->  cellular immunodeficiency (C1855204)
+	 human - origin (C0086418) -->  stx2 gene (C1823140)
+	 disease due to respirovirus ( disorder ) (C3714630) -->  infection , paramyxoviridae (C0206613)
+Sentences head:
+	 low birth weight with multiple / prolonged intubation is more likely to be present with higher - grade bds , whereas low ga is more likely to be associated with bdss - 1 to bdss - 2 .
+	 nasal septal tumor as a sole presentation in the head and neck region in rosai - dorfman disease .
+	 64 infertile men with oligozoospermia took part in a double blind cross - over trial .
+Edges head:
+	bd --  red cell ; aplasia , congenital
+	##s --  red cell ; aplasia , congenital
+	bd --  diamond - blackfan anemia 1
+	##s --  diamond - blackfan anemia 1
+	nasal --  nose cancers
+	septal --  nose cancers
+	tumor --  nose cancers
+	rosa --  disease rosai - dorfman
+	##i --  disease rosai - dorfman
+	- --  disease rosai - dorfman
+Triples head:
+	 congenital bone marrow failure syndrome (C2986691) -->  red cell ; aplasia , congenital (C1260899)
+	 sarcomas , osteogenic (C0029463) -->  diamond - blackfan anemia 1 (C2676137)
+	 implantation of cochlear device (C0302559) -->  nose cancers (C0751394)
+	 hi (C0019665) -->  disease rosai - dorfman (C0019625)
+	 foxc1 gene (C1414668) -->  human - origin (C0086418)
+Sentences tail:
+	 results are expressed as the percentage of antibodies resisting elution by urea .
+	 it has been sufficiently shown that sex differences have a critical influence on the shaping of immune response , which then leads to different pathogenesis in infectious diseases .
+	 more innovative methods are needed to train students in hiv - infection prevention and counseling .
+Edges tail:
+	urea --  basodexan
+	infectious --  contagious disease
+	diseases --  contagious disease
+	hiv --  coinfection , hiv
+	- --  coinfection , hiv
+	infection --  coinfection , hiv
+	hiv --  aids , progression to
+	- --  aids , progression to
+	infection --  aids , progression to
+	patients --  human - origin
+Triples tail:
+	 basodexan (C0729126) -->  carbamide preparations (C0041942)
+	 contagious disease (C0009450) -->  [ x ] amebic infection of other sites ( disorder ) (C0152505)
+	 human - origin (C0086418) -->  aim2 wt allele (C1704940)
+	 oestrogen effect , nos (C0877035) -->  therapy partial responder (C4285679)
+	 human - origin (C0086418) -->  dna cross - link repair 1c protein (C2983313)
